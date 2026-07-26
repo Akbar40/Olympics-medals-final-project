@@ -3,6 +3,8 @@
 A country-by-edition analysis of Summer Olympics medal tallies from Athens 1896 to Rio 2016,
 delivered as an analysis notebook, a slide presentation, and an interactive Streamlit dashboard.
 
+**Live dashboard**: https://olympics-medals-final-project-rwuxvhxn3cbpdntlkieyzo.streamlit.app
+
 ## Dataset
 
 Source: country-edition medal tallies (`Olympic_Games_Medal_Tally.csv`) and an NOC-to-country
@@ -65,27 +67,6 @@ cd dashboard
 streamlit run app.py
 ```
 
-## Deploying the dashboard (required before submission)
-
-1. Create a **new public GitHub repository** for this project (not your classwork repo) and push
-   this entire folder to it.
-2. Go to [share.streamlit.io](https://share.streamlit.io), sign in with GitHub, and click
-   "New app."
-3. Point it at your repo, branch `main`, and main file path `dashboard/app.py`.
-4. Deploy. Streamlit Community Cloud will install `requirements.txt` automatically (a
-   `requirements.txt` at the repo root already covers the dashboard's dependencies).
-5. Copy the live URL back into `presentation/` (slide "Interactive Dashboard") and into your
-   GitHub repo's README, then re-export the deck to PDF if you update it.
-
-## Submission checklist (per the course brief)
-
-- [ ] Real-world, rich, varied dataset — done (see above)
-- [ ] 10 multi-dimensional analytical questions = 10 explanatory Plotly visuals — done, `analysis.ipynb`
-- [ ] Plotly only, CVD-safe, decluttered, annotated — done
-- [ ] Interactive Streamlit dashboard, deployed and linked — **you still need to deploy it** (see above)
-- [ ] Push to a **public GitHub repo** (not your classwork one)
-- [ ] Submit the repo link via **1-to-1 message on Microsoft Teams**
-- [ ] **Deadline: Friday, 31 July 2026 — no late submissions**
 
 ## The 10 analytical questions
 
