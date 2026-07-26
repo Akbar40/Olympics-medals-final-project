@@ -1,0 +1,1209 @@
+year,edition,edition_id,host_city,host_country_noc,is_host,country,country_noc,continent,is_defunct_entity,era,gold,silver,bronze,total,rank_in_edition,medal_share_pct,gold_ratio,n_countries_in_edition,edition_data_complete
+1896,1896 Summer Olympics,1,Athens,GRE,True,Greece,GRE,Europe,False,Founding Era (1896-1912),10,18,19,47,1,38.52,0.213,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,United States,USA,Americas,False,Founding Era (1896-1912),11,7,2,20,2,16.39,0.55,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Germany,GER,Europe,False,Founding Era (1896-1912),6,5,2,13,3,10.66,0.462,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,France,FRA,Europe,False,Founding Era (1896-1912),5,4,2,11,4,9.02,0.455,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Great Britain,GBR,Europe,False,Founding Era (1896-1912),2,3,2,7,5,5.74,0.286,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Hungary,HUN,Europe,False,Founding Era (1896-1912),2,1,3,6,6,4.92,0.333,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Denmark,DEN,Europe,False,Founding Era (1896-1912),1,2,3,6,6,4.92,0.167,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Austria,AUT,Europe,False,Founding Era (1896-1912),2,1,2,5,8,4.1,0.4,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Switzerland,SUI,Europe,False,Founding Era (1896-1912),1,2,0,3,9,2.46,0.333,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Australia,AUS,Oceania,False,Founding Era (1896-1912),2,0,0,2,10,1.64,1.0,11,True
+1896,1896 Summer Olympics,1,Athens,GRE,False,Mixed team,MIX,Mixed/Other,True,Founding Era (1896-1912),1,0,1,2,10,1.64,0.5,11,True
+1900,1900 Summer Olympics,2,Paris,FRA,True,France,FRA,Europe,False,Founding Era (1896-1912),31,40,40,111,1,39.08,0.279,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,United States,USA,Americas,False,Founding Era (1896-1912),20,13,15,48,2,16.9,0.417,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Great Britain,GBR,Europe,False,Founding Era (1896-1912),20,9,9,38,3,13.38,0.526,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Belgium,BEL,Europe,False,Founding Era (1896-1912),6,7,5,18,4,6.34,0.333,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Switzerland,SUI,Europe,False,Founding Era (1896-1912),6,3,1,10,5,3.52,0.6,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Germany,GER,Europe,False,Founding Era (1896-1912),4,3,2,9,6,3.17,0.444,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Denmark,DEN,Europe,False,Founding Era (1896-1912),1,3,2,6,7,2.11,0.167,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Mixed team,MIX,Mixed/Other,True,Founding Era (1896-1912),1,2,3,6,7,2.11,0.167,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Netherlands,NED,Europe,False,Founding Era (1896-1912),1,2,3,6,7,2.11,0.167,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Austria,AUT,Europe,False,Founding Era (1896-1912),0,3,3,6,7,2.11,0.0,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Italy,ITA,Europe,False,Founding Era (1896-1912),3,2,0,5,11,1.76,0.6,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Hungary,HUN,Europe,False,Founding Era (1896-1912),1,2,2,5,11,1.76,0.2,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Norway,NOR,Europe,False,Founding Era (1896-1912),0,2,3,5,11,1.76,0.0,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Australia,AUS,Oceania,False,Founding Era (1896-1912),0,0,3,3,14,1.06,0.0,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Cuba,CUB,Americas,False,Founding Era (1896-1912),1,1,0,2,15,0.7,0.5,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,India,IND,Asia,False,Founding Era (1896-1912),0,2,0,2,15,0.7,0.0,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Bohemia,BOH,Europe,True,Founding Era (1896-1912),0,1,1,2,15,0.7,0.0,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Spain,ESP,Europe,False,Founding Era (1896-1912),1,0,0,1,18,0.35,1.0,19,True
+1900,1900 Summer Olympics,2,Paris,FRA,False,Sweden,SWE,Europe,False,Founding Era (1896-1912),0,0,1,1,18,0.35,0.0,19,True
+1904,1904 Summer Olympics,3,St. Louis,USA,True,United States,USA,Americas,False,Founding Era (1896-1912),80,85,83,248,1,88.57,0.323,8,True
+1904,1904 Summer Olympics,3,St. Louis,USA,False,Germany,GER,Europe,False,Founding Era (1896-1912),5,4,5,14,2,5.0,0.357,8,True
+1904,1904 Summer Olympics,3,St. Louis,USA,False,Canada,CAN,Americas,False,Founding Era (1896-1912),4,1,1,6,3,2.14,0.667,8,True
+1904,1904 Summer Olympics,3,St. Louis,USA,False,Hungary,HUN,Europe,False,Founding Era (1896-1912),2,1,1,4,4,1.43,0.5,8,True
+1904,1904 Summer Olympics,3,St. Louis,USA,False,Cuba,CUB,Americas,False,Founding Era (1896-1912),3,0,0,3,5,1.07,1.0,8,True
+1904,1904 Summer Olympics,3,St. Louis,USA,False,Great Britain,GBR,Europe,False,Founding Era (1896-1912),1,1,0,2,6,0.71,0.5,8,True
+1904,1904 Summer Olympics,3,St. Louis,USA,False,Greece,GRE,Europe,False,Founding Era (1896-1912),1,0,1,2,6,0.71,0.5,8,True
+1904,1904 Summer Olympics,3,St. Louis,USA,False,Mixed team,MIX,Mixed/Other,True,Founding Era (1896-1912),1,0,0,1,8,0.36,1.0,8,True
+1908,1908 Summer Olympics,5,London,GBR,True,Great Britain,GBR,Europe,False,Founding Era (1896-1912),56,51,39,146,1,45.06,0.384,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,United States,USA,Americas,False,Founding Era (1896-1912),23,12,12,47,2,14.51,0.489,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Sweden,SWE,Europe,False,Founding Era (1896-1912),8,6,11,25,3,7.72,0.32,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,France,FRA,Europe,False,Founding Era (1896-1912),5,5,9,19,4,5.86,0.263,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Canada,CAN,Americas,False,Founding Era (1896-1912),3,3,10,16,5,4.94,0.188,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Germany,GER,Europe,False,Founding Era (1896-1912),3,5,5,13,6,4.01,0.231,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Hungary,HUN,Europe,False,Founding Era (1896-1912),3,4,2,9,7,2.78,0.333,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Norway,NOR,Europe,False,Founding Era (1896-1912),2,3,3,8,8,2.47,0.25,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Belgium,BEL,Europe,False,Founding Era (1896-1912),1,5,2,8,8,2.47,0.125,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Australasia,ANZ,Oceania,True,Founding Era (1896-1912),1,2,2,5,10,1.54,0.2,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Finland,FIN,Europe,False,Founding Era (1896-1912),1,1,3,5,10,1.54,0.2,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Denmark,DEN,Europe,False,Founding Era (1896-1912),0,2,3,5,10,1.54,0.0,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Italy,ITA,Europe,False,Founding Era (1896-1912),2,2,0,4,13,1.23,0.5,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Greece,GRE,Europe,False,Founding Era (1896-1912),0,3,1,4,13,1.23,0.0,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Russian Federation,RUS,Europe,False,Founding Era (1896-1912),1,2,0,3,15,0.93,0.333,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,South Africa,RSA,Africa,False,Founding Era (1896-1912),1,1,0,2,16,0.62,0.5,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Bohemia,BOH,Europe,True,Founding Era (1896-1912),0,0,2,2,16,0.62,0.0,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Netherlands,NED,Europe,False,Founding Era (1896-1912),0,0,2,2,16,0.62,0.0,19,True
+1908,1908 Summer Olympics,5,London,GBR,False,Austria,AUT,Europe,False,Founding Era (1896-1912),0,0,1,1,19,0.31,0.0,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,True,Sweden,SWE,Europe,False,Founding Era (1896-1912),23,25,17,65,1,20.5,0.354,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,United States,USA,Americas,False,Founding Era (1896-1912),26,19,19,64,2,20.19,0.406,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Great Britain,GBR,Europe,False,Founding Era (1896-1912),10,15,16,41,3,12.93,0.244,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Finland,FIN,Europe,False,Founding Era (1896-1912),9,8,9,26,4,8.2,0.346,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Germany,GER,Europe,False,Founding Era (1896-1912),6,13,7,26,4,8.2,0.231,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,France,FRA,Europe,False,Founding Era (1896-1912),7,5,3,15,6,4.73,0.467,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Denmark,DEN,Europe,False,Founding Era (1896-1912),1,6,5,12,7,3.79,0.083,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Norway,NOR,Europe,False,Founding Era (1896-1912),3,2,5,10,8,3.15,0.3,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Italy,ITA,Europe,False,Founding Era (1896-1912),5,1,2,8,9,2.52,0.625,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Canada,CAN,Americas,False,Founding Era (1896-1912),3,2,3,8,9,2.52,0.375,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Hungary,HUN,Europe,False,Founding Era (1896-1912),3,2,3,8,9,2.52,0.375,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Australasia,ANZ,Oceania,True,Founding Era (1896-1912),2,2,3,7,12,2.21,0.286,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,South Africa,RSA,Africa,False,Founding Era (1896-1912),4,2,0,6,13,1.89,0.667,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Belgium,BEL,Europe,False,Founding Era (1896-1912),2,1,3,6,13,1.89,0.333,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Russian Federation,RUS,Europe,False,Founding Era (1896-1912),0,2,3,5,15,1.58,0.0,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Austria,AUT,Europe,False,Founding Era (1896-1912),0,2,2,4,16,1.26,0.0,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Netherlands,NED,Europe,False,Founding Era (1896-1912),0,0,3,3,17,0.95,0.0,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Greece,GRE,Europe,False,Founding Era (1896-1912),1,0,1,2,18,0.63,0.5,19,True
+1912,1912 Summer Olympics,6,Stockholm,SWE,False,Switzerland,SUI,Europe,False,Founding Era (1896-1912),1,0,0,1,19,0.32,1.0,19,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,United States,USA,Americas,False,Interwar (1920-1936),41,27,27,95,1,21.16,0.432,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Sweden,SWE,Europe,False,Interwar (1920-1936),19,20,25,64,2,14.25,0.297,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Great Britain,GBR,Europe,False,Interwar (1920-1936),14,16,13,43,3,9.58,0.326,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,True,Belgium,BEL,Europe,False,Interwar (1920-1936),16,12,14,42,4,9.35,0.381,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,France,FRA,Europe,False,Interwar (1920-1936),9,20,13,42,4,9.35,0.214,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Finland,FIN,Europe,False,Interwar (1920-1936),15,10,9,34,6,7.57,0.441,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Norway,NOR,Europe,False,Interwar (1920-1936),13,10,9,32,7,7.13,0.406,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Italy,ITA,Europe,False,Interwar (1920-1936),14,6,5,25,8,5.57,0.56,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Denmark,DEN,Europe,False,Interwar (1920-1936),3,9,1,13,9,2.9,0.231,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Netherlands,NED,Europe,False,Interwar (1920-1936),4,2,5,11,10,2.45,0.364,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Switzerland,SUI,Europe,False,Interwar (1920-1936),2,2,7,11,10,2.45,0.182,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,South Africa,RSA,Africa,False,Interwar (1920-1936),3,4,3,10,12,2.23,0.3,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Canada,CAN,Americas,False,Interwar (1920-1936),3,3,3,9,13,2.0,0.333,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Estonia,EST,Europe,False,Interwar (1920-1936),1,2,0,3,14,0.67,0.333,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Brazil,BRA,Americas,False,Interwar (1920-1936),1,1,1,3,14,0.67,0.333,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Australia,AUS,Oceania,False,Interwar (1920-1936),0,2,1,3,14,0.67,0.0,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Japan,JPN,Asia,False,Interwar (1920-1936),0,2,0,2,17,0.45,0.0,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Spain,ESP,Europe,False,Interwar (1920-1936),0,2,0,2,17,0.45,0.0,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Czechoslovakia,TCH,Europe,True,Interwar (1920-1936),0,0,2,2,17,0.45,0.0,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Greece,GRE,Europe,False,Interwar (1920-1936),0,1,0,1,20,0.22,0.0,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,Luxembourg,LUX,Europe,False,Interwar (1920-1936),0,1,0,1,20,0.22,0.0,22,True
+1920,1920 Summer Olympics,7,Antwerp,BEL,False,New Zealand,NZL,Oceania,False,Interwar (1920-1936),0,0,1,1,20,0.22,0.0,22,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,United States,USA,Americas,False,Interwar (1920-1936),45,27,27,99,1,25.26,0.455,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,True,France,FRA,Europe,False,Interwar (1920-1936),14,15,12,41,2,10.46,0.341,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Finland,FIN,Europe,False,Interwar (1920-1936),14,13,10,37,3,9.44,0.378,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Great Britain,GBR,Europe,False,Interwar (1920-1936),9,14,12,35,4,8.93,0.257,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Sweden,SWE,Europe,False,Interwar (1920-1936),4,13,12,29,5,7.4,0.138,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Switzerland,SUI,Europe,False,Interwar (1920-1936),7,8,10,25,6,6.38,0.28,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Italy,ITA,Europe,False,Interwar (1920-1936),8,3,5,16,7,4.08,0.5,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Belgium,BEL,Europe,False,Interwar (1920-1936),3,7,3,13,8,3.32,0.231,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Netherlands,NED,Europe,False,Interwar (1920-1936),4,1,6,11,9,2.81,0.364,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Denmark,DEN,Europe,False,Interwar (1920-1936),2,6,3,11,9,2.81,0.182,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Norway,NOR,Europe,False,Interwar (1920-1936),5,2,3,10,11,2.55,0.5,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Hungary,HUN,Europe,False,Interwar (1920-1936),2,4,4,10,11,2.55,0.2,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Czechoslovakia,TCH,Europe,True,Interwar (1920-1936),1,4,5,10,11,2.55,0.1,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Australia,AUS,Oceania,False,Interwar (1920-1936),3,1,2,6,14,1.53,0.5,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Argentina,ARG,Americas,False,Interwar (1920-1936),1,3,2,6,14,1.53,0.167,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Estonia,EST,Europe,False,Interwar (1920-1936),1,1,4,6,14,1.53,0.167,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Austria,AUT,Europe,False,Interwar (1920-1936),0,3,1,4,17,1.02,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Canada,CAN,Americas,False,Interwar (1920-1936),0,3,1,4,17,1.02,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,South Africa,RSA,Africa,False,Interwar (1920-1936),1,1,1,3,19,0.77,0.333,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Yugoslavia,YUG,Europe,True,Interwar (1920-1936),2,0,0,2,20,0.51,1.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Luxembourg,LUX,Europe,False,Interwar (1920-1936),1,1,0,2,20,0.51,0.5,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Ireland,IRL,Europe,False,Interwar (1920-1936),0,1,1,2,20,0.51,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Poland,POL,Europe,False,Interwar (1920-1936),0,1,1,2,20,0.51,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Greece,GRE,Europe,False,Interwar (1920-1936),1,0,0,1,24,0.26,1.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Uruguay,URU,Americas,False,Interwar (1920-1936),1,0,0,1,24,0.26,1.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Haiti,HAI,Americas,False,Interwar (1920-1936),0,0,1,1,24,0.26,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Japan,JPN,Asia,False,Interwar (1920-1936),0,0,1,1,24,0.26,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Monaco,MON,Europe,False,Interwar (1920-1936),0,0,1,1,24,0.26,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,New Zealand,NZL,Oceania,False,Interwar (1920-1936),0,0,1,1,24,0.26,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Portugal,POR,Europe,False,Interwar (1920-1936),0,0,1,1,24,0.26,0.0,31,True
+1924,1924 Summer Olympics,8,Paris,FRA,False,Romania,ROU,Europe,False,Interwar (1920-1936),0,0,1,1,24,0.26,0.0,31,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,United States,USA,Americas,False,Interwar (1920-1936),22,18,16,56,1,15.73,0.393,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Germany,GER,Europe,False,Interwar (1920-1936),11,9,19,39,2,10.96,0.282,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Finland,FIN,Europe,False,Interwar (1920-1936),8,8,9,25,3,7.02,0.32,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,France,FRA,Europe,False,Interwar (1920-1936),7,12,6,25,3,7.02,0.28,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Sweden,SWE,Europe,False,Interwar (1920-1936),7,6,12,25,3,7.02,0.28,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,True,Netherlands,NED,Europe,False,Interwar (1920-1936),8,10,5,23,6,6.46,0.348,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Great Britain,GBR,Europe,False,Interwar (1920-1936),4,11,7,22,7,6.18,0.182,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Italy,ITA,Europe,False,Interwar (1920-1936),7,6,7,20,8,5.62,0.35,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Switzerland,SUI,Europe,False,Interwar (1920-1936),7,6,4,17,9,4.78,0.412,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Canada,CAN,Americas,False,Interwar (1920-1936),4,4,7,15,10,4.21,0.267,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Hungary,HUN,Europe,False,Interwar (1920-1936),5,5,0,10,11,2.81,0.5,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Denmark,DEN,Europe,False,Interwar (1920-1936),3,2,4,9,12,2.53,0.333,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Czechoslovakia,TCH,Europe,True,Interwar (1920-1936),2,5,2,9,12,2.53,0.222,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Argentina,ARG,Americas,False,Interwar (1920-1936),3,3,1,7,14,1.97,0.429,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Poland,POL,Europe,False,Interwar (1920-1936),2,1,4,7,14,1.97,0.286,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Japan,JPN,Asia,False,Interwar (1920-1936),2,2,1,5,16,1.4,0.4,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Estonia,EST,Europe,False,Interwar (1920-1936),2,1,2,5,16,1.4,0.4,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Yugoslavia,YUG,Europe,True,Interwar (1920-1936),1,1,3,5,16,1.4,0.2,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Austria,AUT,Europe,False,Interwar (1920-1936),3,0,1,4,19,1.12,0.75,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Egypt,EGY,Africa,False,Interwar (1920-1936),2,1,1,4,19,1.12,0.5,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Australia,AUS,Oceania,False,Interwar (1920-1936),1,2,1,4,19,1.12,0.25,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Norway,NOR,Europe,False,Interwar (1920-1936),1,2,1,4,19,1.12,0.25,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,South Africa,RSA,Africa,False,Interwar (1920-1936),1,0,2,3,23,0.84,0.333,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Belgium,BEL,Europe,False,Interwar (1920-1936),0,1,2,3,23,0.84,0.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,India,IND,Asia,False,Interwar (1920-1936),1,0,0,1,25,0.28,1.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Ireland,IRL,Europe,False,Interwar (1920-1936),1,0,0,1,25,0.28,1.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Luxembourg,LUX,Europe,False,Interwar (1920-1936),1,0,0,1,25,0.28,1.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,New Zealand,NZL,Oceania,False,Interwar (1920-1936),1,0,0,1,25,0.28,1.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Spain,ESP,Europe,False,Interwar (1920-1936),1,0,0,1,25,0.28,1.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Uruguay,URU,Americas,False,Interwar (1920-1936),1,0,0,1,25,0.28,1.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Chile,CHI,Americas,False,Interwar (1920-1936),0,1,0,1,25,0.28,0.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Haiti,HAI,Americas,False,Interwar (1920-1936),0,1,0,1,25,0.28,0.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Philippines,PHI,Asia,False,Interwar (1920-1936),0,0,1,1,25,0.28,0.0,34,True
+1928,1928 Summer Olympics,9,Amsterdam,NED,False,Portugal,POR,Europe,False,Interwar (1920-1936),0,0,1,1,25,0.28,0.0,34,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,True,United States,USA,Americas,False,Interwar (1920-1936),44,36,30,110,1,29.73,0.4,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Italy,ITA,Europe,False,Interwar (1920-1936),12,12,12,36,2,9.73,0.333,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Finland,FIN,Europe,False,Interwar (1920-1936),5,8,12,25,3,6.76,0.2,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Sweden,SWE,Europe,False,Interwar (1920-1936),10,5,9,24,4,6.49,0.417,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Germany,GER,Europe,False,Interwar (1920-1936),5,12,7,24,4,6.49,0.208,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,France,FRA,Europe,False,Interwar (1920-1936),11,5,4,20,6,5.41,0.55,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Japan,JPN,Asia,False,Interwar (1920-1936),7,7,4,18,7,4.86,0.389,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Great Britain,GBR,Europe,False,Interwar (1920-1936),5,7,5,17,8,4.59,0.294,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Hungary,HUN,Europe,False,Interwar (1920-1936),6,5,5,16,9,4.32,0.375,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Canada,CAN,Americas,False,Interwar (1920-1936),2,5,9,16,9,4.32,0.125,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Poland,POL,Europe,False,Interwar (1920-1936),3,2,4,9,11,2.43,0.333,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Netherlands,NED,Europe,False,Interwar (1920-1936),2,5,1,8,12,2.16,0.25,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Denmark,DEN,Europe,False,Interwar (1920-1936),0,5,3,8,12,2.16,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Czechoslovakia,TCH,Europe,True,Interwar (1920-1936),1,3,2,6,14,1.62,0.167,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Australia,AUS,Oceania,False,Interwar (1920-1936),3,1,1,5,15,1.35,0.6,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,South Africa,RSA,Africa,False,Interwar (1920-1936),2,0,3,5,15,1.35,0.4,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Austria,AUT,Europe,False,Interwar (1920-1936),1,1,3,5,15,1.35,0.2,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Argentina,ARG,Americas,False,Interwar (1920-1936),3,1,0,4,18,1.08,0.75,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Philippines,PHI,Asia,False,Interwar (1920-1936),0,0,3,3,19,0.81,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Ireland,IRL,Europe,False,Interwar (1920-1936),2,0,0,2,20,0.54,1.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Mexico,MEX,Americas,False,Interwar (1920-1936),0,2,0,2,20,0.54,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,India,IND,Asia,False,Interwar (1920-1936),1,0,0,1,22,0.27,1.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Latvia,LAT,Europe,False,Interwar (1920-1936),0,1,0,1,22,0.27,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,New Zealand,NZL,Oceania,False,Interwar (1920-1936),0,1,0,1,22,0.27,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Switzerland,SUI,Europe,False,Interwar (1920-1936),0,1,0,1,22,0.27,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Belgium,BEL,Europe,False,Interwar (1920-1936),0,0,1,1,22,0.27,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Spain,ESP,Europe,False,Interwar (1920-1936),0,0,1,1,22,0.27,0.0,28,True
+1932,1932 Summer Olympics,10,Los Angeles,USA,False,Uruguay,URU,Americas,False,Interwar (1920-1936),0,0,1,1,22,0.27,0.0,28,True
+1936,1936 Summer Olympics,11,Berlin,GER,True,Germany,GER,Europe,False,Interwar (1920-1936),38,31,32,101,1,23.93,0.376,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,United States,USA,Americas,False,Interwar (1920-1936),24,21,12,57,2,13.51,0.421,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Italy,ITA,Europe,False,Interwar (1920-1936),9,13,5,27,3,6.4,0.333,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Sweden,SWE,Europe,False,Interwar (1920-1936),6,5,10,21,4,4.98,0.286,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Finland,FIN,Europe,False,Interwar (1920-1936),8,6,6,20,5,4.74,0.4,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Japan,JPN,Asia,False,Interwar (1920-1936),6,4,10,20,5,4.74,0.3,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,France,FRA,Europe,False,Interwar (1920-1936),7,6,6,19,7,4.5,0.368,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Switzerland,SUI,Europe,False,Interwar (1920-1936),4,9,5,18,8,4.27,0.222,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Netherlands,NED,Europe,False,Interwar (1920-1936),6,4,7,17,9,4.03,0.353,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Austria,AUT,Europe,False,Interwar (1920-1936),5,7,5,17,9,4.03,0.294,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Hungary,HUN,Europe,False,Interwar (1920-1936),10,1,5,16,11,3.79,0.625,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Great Britain,GBR,Europe,False,Interwar (1920-1936),4,7,3,14,12,3.32,0.286,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Czechoslovakia,TCH,Europe,True,Interwar (1920-1936),3,5,1,9,13,2.13,0.333,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Canada,CAN,Americas,False,Interwar (1920-1936),1,3,5,9,13,2.13,0.111,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Poland,POL,Europe,False,Interwar (1920-1936),0,4,5,9,13,2.13,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Argentina,ARG,Americas,False,Interwar (1920-1936),2,2,3,7,16,1.66,0.286,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Estonia,EST,Europe,False,Interwar (1920-1936),2,2,3,7,16,1.66,0.286,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Norway,NOR,Europe,False,Interwar (1920-1936),1,3,2,6,18,1.42,0.167,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Egypt,EGY,Africa,False,Interwar (1920-1936),2,1,2,5,19,1.18,0.4,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Denmark,DEN,Europe,False,Interwar (1920-1936),0,2,3,5,19,1.18,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Belgium,BEL,Europe,False,Interwar (1920-1936),0,0,3,3,21,0.71,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Mexico,MEX,Americas,False,Interwar (1920-1936),0,0,3,3,21,0.71,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Türkiye,TUR,Europe,False,Interwar (1920-1936),1,0,1,2,23,0.47,0.5,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Latvia,LAT,Europe,False,Interwar (1920-1936),0,1,1,2,23,0.47,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,India,IND,Asia,False,Interwar (1920-1936),1,0,0,1,25,0.24,1.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,New Zealand,NZL,Oceania,False,Interwar (1920-1936),1,0,0,1,25,0.24,1.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Romania,ROU,Europe,False,Interwar (1920-1936),0,1,0,1,25,0.24,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,South Africa,RSA,Africa,False,Interwar (1920-1936),0,1,0,1,25,0.24,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Yugoslavia,YUG,Europe,True,Interwar (1920-1936),0,1,0,1,25,0.24,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Australia,AUS,Oceania,False,Interwar (1920-1936),0,0,1,1,25,0.24,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Philippines,PHI,Asia,False,Interwar (1920-1936),0,0,1,1,25,0.24,0.0,32,True
+1936,1936 Summer Olympics,11,Berlin,GER,False,Portugal,POR,Europe,False,Interwar (1920-1936),0,0,1,1,25,0.24,0.0,32,True
+1948,1948 Summer Olympics,12,London,GBR,False,United States,USA,Americas,False,Cold War (1948-1988),38,27,19,84,1,18.96,0.452,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Sweden,SWE,Europe,False,Cold War (1948-1988),17,11,18,46,2,10.38,0.37,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,France,FRA,Europe,False,Cold War (1948-1988),11,6,15,32,3,7.22,0.344,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Italy,ITA,Europe,False,Cold War (1948-1988),9,12,10,31,4,7.0,0.29,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Hungary,HUN,Europe,False,Cold War (1948-1988),10,5,13,28,5,6.32,0.357,38,True
+1948,1948 Summer Olympics,12,London,GBR,True,Great Britain,GBR,Europe,False,Cold War (1948-1988),4,16,7,27,6,6.09,0.148,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Finland,FIN,Europe,False,Cold War (1948-1988),10,8,6,24,7,5.42,0.417,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),5,12,6,23,8,5.19,0.217,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Denmark,DEN,Europe,False,Cold War (1948-1988),5,8,9,22,9,4.97,0.227,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Netherlands,NED,Europe,False,Cold War (1948-1988),5,2,9,16,10,3.61,0.312,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Australia,AUS,Oceania,False,Cold War (1948-1988),2,6,5,13,11,2.93,0.154,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),6,4,2,12,12,2.71,0.5,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),6,2,3,11,13,2.48,0.545,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Austria,AUT,Europe,False,Cold War (1948-1988),2,2,4,8,14,1.81,0.25,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Argentina,ARG,Americas,False,Cold War (1948-1988),3,3,1,7,15,1.58,0.429,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Belgium,BEL,Europe,False,Cold War (1948-1988),2,2,3,7,15,1.58,0.286,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Norway,NOR,Europe,False,Cold War (1948-1988),1,3,3,7,15,1.58,0.143,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,South Africa,RSA,Africa,False,Cold War (1948-1988),2,2,2,6,18,1.35,0.333,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Egypt,EGY,Africa,False,Cold War (1948-1988),2,2,1,5,19,1.13,0.4,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Mexico,MEX,Americas,False,Cold War (1948-1988),2,1,2,5,19,1.13,0.4,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Canada,CAN,Americas,False,Cold War (1948-1988),0,2,2,4,21,0.9,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),1,2,0,3,22,0.68,0.333,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Poland,POL,Europe,False,Cold War (1948-1988),1,0,1,2,23,0.45,0.5,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),0,2,0,2,23,0.45,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Portugal,POR,Europe,False,Cold War (1948-1988),0,1,1,2,23,0.45,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Uruguay,URU,Americas,False,Cold War (1948-1988),0,1,1,2,23,0.45,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Panama,PAN,Americas,False,Cold War (1948-1988),0,0,2,2,23,0.45,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),0,0,2,2,23,0.45,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,India,IND,Asia,False,Cold War (1948-1988),1,0,0,1,29,0.23,1.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Peru,PER,Americas,False,Cold War (1948-1988),1,0,0,1,29,0.23,1.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Cuba,CUB,Americas,False,Cold War (1948-1988),0,1,0,1,29,0.23,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Spain,ESP,Europe,False,Cold War (1948-1988),0,1,0,1,29,0.23,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Sri Lanka,SRI,Asia,False,Cold War (1948-1988),0,1,0,1,29,0.23,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Trinidad and Tobago,TTO,Americas,False,Cold War (1948-1988),0,1,0,1,29,0.23,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Brazil,BRA,Americas,False,Cold War (1948-1988),0,0,1,1,29,0.23,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Ireland,IRL,Europe,False,Cold War (1948-1988),0,0,1,1,29,0.23,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),0,0,1,1,29,0.23,0.0,38,True
+1948,1948 Summer Olympics,12,London,GBR,False,Puerto Rico,PUR,Americas,False,Cold War (1948-1988),0,0,1,1,29,0.23,0.0,38,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,United States,USA,Americas,False,Cold War (1948-1988),40,19,17,76,1,16.56,0.526,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),22,30,19,71,2,15.47,0.31,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Hungary,HUN,Europe,False,Cold War (1948-1988),16,10,16,42,3,9.15,0.381,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Sweden,SWE,Europe,False,Cold War (1948-1988),12,13,10,35,4,7.63,0.343,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Germany,GER,Europe,False,Cold War (1948-1988),0,7,17,24,5,5.23,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,True,Finland,FIN,Europe,False,Cold War (1948-1988),6,3,13,22,6,4.79,0.273,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Italy,ITA,Europe,False,Cold War (1948-1988),8,9,4,21,7,4.58,0.381,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,France,FRA,Europe,False,Cold War (1948-1988),6,6,6,18,8,3.92,0.333,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),2,6,6,14,9,3.05,0.143,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),7,3,3,13,10,2.83,0.538,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Australia,AUS,Oceania,False,Cold War (1948-1988),6,2,3,11,11,2.4,0.545,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),1,2,8,11,11,2.4,0.091,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,South Africa,RSA,Africa,False,Cold War (1948-1988),2,4,4,10,13,2.18,0.2,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Japan,JPN,Asia,False,Cold War (1948-1988),1,6,2,9,14,1.96,0.111,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),0,3,4,7,15,1.53,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Denmark,DEN,Europe,False,Cold War (1948-1988),2,1,3,6,16,1.31,0.333,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Norway,NOR,Europe,False,Cold War (1948-1988),3,2,0,5,17,1.09,0.6,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),2,3,0,5,17,1.09,0.4,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Argentina,ARG,Americas,False,Cold War (1948-1988),1,2,2,5,17,1.09,0.2,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Netherlands,NED,Europe,False,Cold War (1948-1988),0,5,0,5,17,1.09,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Belgium,BEL,Europe,False,Cold War (1948-1988),2,2,0,4,21,0.87,0.5,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Poland,POL,Europe,False,Cold War (1948-1988),1,2,1,4,21,0.87,0.25,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Romania,ROU,Europe,False,Cold War (1948-1988),1,1,2,4,21,0.87,0.25,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),2,0,1,3,24,0.65,0.667,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Canada,CAN,Americas,False,Cold War (1948-1988),1,2,0,3,24,0.65,0.333,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),1,2,0,3,24,0.65,0.333,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Brazil,BRA,Americas,False,Cold War (1948-1988),1,0,2,3,24,0.65,0.333,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),1,0,2,3,24,0.65,0.333,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,India,IND,Asia,False,Cold War (1948-1988),1,0,1,2,29,0.44,0.5,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Chile,CHI,Americas,False,Cold War (1948-1988),0,2,0,2,29,0.44,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Austria,AUT,Europe,False,Cold War (1948-1988),0,1,1,2,29,0.44,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Lebanon,LBN,Asia,False,Cold War (1948-1988),0,1,1,2,29,0.44,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),0,0,2,2,29,0.44,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Trinidad and Tobago,TTO,Americas,False,Cold War (1948-1988),0,0,2,2,29,0.44,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Uruguay,URU,Americas,False,Cold War (1948-1988),0,0,2,2,29,0.44,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Luxembourg,LUX,Europe,False,Cold War (1948-1988),1,0,0,1,36,0.22,1.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Ireland,IRL,Europe,False,Cold War (1948-1988),0,1,0,1,36,0.22,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Mexico,MEX,Americas,False,Cold War (1948-1988),0,1,0,1,36,0.22,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Spain,ESP,Europe,False,Cold War (1948-1988),0,1,0,1,36,0.22,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),0,0,1,1,36,0.22,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Egypt,EGY,Africa,False,Cold War (1948-1988),0,0,1,1,36,0.22,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Portugal,POR,Europe,False,Cold War (1948-1988),0,0,1,1,36,0.22,0.0,43,True
+1952,1952 Summer Olympics,13,Helsinki,FIN,False,Venezuela,VEN,Americas,False,Cold War (1948-1988),0,0,1,1,36,0.22,0.0,43,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),37,29,32,98,1,21.73,0.378,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,United States,USA,Americas,False,Cold War (1948-1988),32,25,17,74,2,16.41,0.432,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,True,Australia,AUS,Oceania,False,Cold War (1948-1988),13,8,14,35,3,7.76,0.371,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Hungary,HUN,Europe,False,Cold War (1948-1988),9,10,7,26,4,5.76,0.346,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Italy,ITA,Europe,False,Cold War (1948-1988),8,6,8,22,5,4.88,0.364,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),5,7,9,21,6,4.66,0.238,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Germany,GER,Europe,False,Cold War (1948-1988),4,10,6,20,7,4.43,0.2,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Japan,JPN,Asia,False,Cold War (1948-1988),4,10,5,19,8,4.21,0.211,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Sweden,SWE,Europe,False,Cold War (1948-1988),5,5,6,16,9,3.55,0.312,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Finland,FIN,Europe,False,Cold War (1948-1988),3,1,11,15,10,3.33,0.2,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,France,FRA,Europe,False,Cold War (1948-1988),4,4,6,14,11,3.1,0.286,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Romania,ROU,Europe,False,Cold War (1948-1988),5,3,5,13,12,2.88,0.385,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Poland,POL,Europe,False,Cold War (1948-1988),1,4,4,9,13,2.0,0.111,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),3,2,2,7,14,1.55,0.429,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),1,4,1,6,15,1.33,0.167,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),2,2,1,5,16,1.11,0.4,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Canada,CAN,Americas,False,Cold War (1948-1988),2,1,2,5,16,1.11,0.4,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),1,3,1,5,16,1.11,0.2,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Ireland,IRL,Europe,False,Cold War (1948-1988),1,1,3,5,16,1.11,0.2,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Chile,CHI,Americas,False,Cold War (1948-1988),0,2,2,4,20,0.89,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,South Africa,RSA,Africa,False,Cold War (1948-1988),0,0,4,4,20,0.89,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Denmark,DEN,Europe,False,Cold War (1948-1988),1,1,1,3,22,0.67,0.333,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Norway,NOR,Europe,False,Cold War (1948-1988),1,0,2,3,22,0.67,0.333,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),0,3,0,3,22,0.67,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),2,0,0,2,25,0.44,1.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Mexico,MEX,Americas,False,Cold War (1948-1988),1,0,1,2,25,0.44,0.5,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Belgium,BEL,Europe,False,Cold War (1948-1988),0,2,0,2,25,0.44,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Argentina,ARG,Americas,False,Cold War (1948-1988),0,1,1,2,25,0.44,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),0,1,1,2,25,0.44,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Austria,AUT,Europe,False,Cold War (1948-1988),0,0,2,2,25,0.44,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Brazil,BRA,Americas,False,Cold War (1948-1988),1,0,0,1,31,0.22,1.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,India,IND,Asia,False,Cold War (1948-1988),1,0,0,1,31,0.22,1.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Iceland,ISL,Europe,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Greece,GRE,Europe,False,Cold War (1948-1988),0,0,1,1,31,0.22,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,The Bahamas,BAH,Americas,False,Cold War (1948-1988),0,0,1,1,31,0.22,0.0,37,True
+1956,1956 Summer Olympics,14,Melbourne,AUS,False,Uruguay,URU,Americas,False,Cold War (1948-1988),0,0,1,1,31,0.22,0.0,37,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),43,29,31,103,1,22.34,0.417,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,United States,USA,Americas,False,Cold War (1948-1988),34,21,16,71,2,15.4,0.479,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Germany,GER,Europe,False,Cold War (1948-1988),12,19,11,42,3,9.11,0.286,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,True,Italy,ITA,Europe,False,Cold War (1948-1988),13,10,13,36,4,7.81,0.361,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Australia,AUS,Oceania,False,Cold War (1948-1988),8,8,6,22,5,4.77,0.364,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Hungary,HUN,Europe,False,Cold War (1948-1988),6,8,7,21,6,4.56,0.286,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Poland,POL,Europe,False,Cold War (1948-1988),4,6,11,21,6,4.56,0.19,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),2,6,12,20,8,4.34,0.1,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Japan,JPN,Asia,False,Cold War (1948-1988),4,7,7,18,9,3.9,0.222,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Romania,ROU,Europe,False,Cold War (1948-1988),3,1,6,10,10,2.17,0.3,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),7,2,0,9,11,1.95,0.778,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),3,2,3,8,12,1.74,0.375,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),1,3,3,7,13,1.52,0.143,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Denmark,DEN,Europe,False,Cold War (1948-1988),2,3,1,6,14,1.3,0.333,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Sweden,SWE,Europe,False,Cold War (1948-1988),1,2,3,6,14,1.3,0.167,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),0,3,3,6,14,1.3,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Finland,FIN,Europe,False,Cold War (1948-1988),1,1,3,5,17,1.08,0.2,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,France,FRA,Europe,False,Cold War (1948-1988),0,2,3,5,17,1.08,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Belgium,BEL,Europe,False,Cold War (1948-1988),0,2,2,4,19,0.87,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),0,1,3,4,19,0.87,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),2,0,1,3,21,0.65,0.667,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Netherlands,NED,Europe,False,Cold War (1948-1988),0,1,2,3,21,0.65,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,South Africa,RSA,Africa,False,Cold War (1948-1988),0,1,2,3,21,0.65,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Austria,AUT,Europe,False,Cold War (1948-1988),1,1,0,2,24,0.43,0.5,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),1,1,0,2,24,0.43,0.5,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),1,0,1,2,24,0.43,0.5,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Argentina,ARG,Americas,False,Cold War (1948-1988),0,1,1,2,24,0.43,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,United Arab Republic,UAR,Africa,True,Cold War (1948-1988),0,1,1,2,24,0.43,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Brazil,BRA,Americas,False,Cold War (1948-1988),0,0,2,2,24,0.43,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,West Indies Federation,WIF,Americas,True,Cold War (1948-1988),0,0,2,2,24,0.43,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Ethiopia,ETH,Africa,False,Cold War (1948-1988),1,0,0,1,31,0.22,1.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Greece,GRE,Europe,False,Cold War (1948-1988),1,0,0,1,31,0.22,1.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Norway,NOR,Europe,False,Cold War (1948-1988),1,0,0,1,31,0.22,1.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Canada,CAN,Americas,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Chinese Taipei,TPE,Asia,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Ghana,GHA,Africa,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,India,IND,Asia,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Morocco,MAR,Africa,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Portugal,POR,Europe,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Singapore,SGP,Asia,False,Cold War (1948-1988),0,1,0,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Iraq,IRQ,Asia,False,Cold War (1948-1988),0,0,1,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Mexico,MEX,Americas,False,Cold War (1948-1988),0,0,1,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Spain,ESP,Europe,False,Cold War (1948-1988),0,0,1,1,31,0.22,0.0,44,True
+1960,1960 Summer Olympics,15,Rome,ITA,False,Venezuela,VEN,Americas,False,Cold War (1948-1988),0,0,1,1,31,0.22,0.0,44,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),30,31,35,96,1,19.05,0.312,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,United States,USA,Americas,False,Cold War (1948-1988),36,26,28,90,2,17.86,0.4,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Germany,GER,Europe,False,Cold War (1948-1988),10,22,18,50,3,9.92,0.2,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,True,Japan,JPN,Asia,False,Cold War (1948-1988),16,5,8,29,4,5.75,0.552,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Italy,ITA,Europe,False,Cold War (1948-1988),10,10,7,27,5,5.36,0.37,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Poland,POL,Europe,False,Cold War (1948-1988),7,6,10,23,6,4.56,0.304,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Hungary,HUN,Europe,False,Cold War (1948-1988),10,7,5,22,7,4.37,0.455,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Australia,AUS,Oceania,False,Cold War (1948-1988),6,2,10,18,8,3.57,0.333,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),4,12,2,18,8,3.57,0.222,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,France,FRA,Europe,False,Cold War (1948-1988),1,8,6,15,10,2.98,0.067,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),5,6,3,14,11,2.78,0.357,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Romania,ROU,Europe,False,Cold War (1948-1988),2,4,6,12,12,2.38,0.167,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),3,5,2,10,13,1.98,0.3,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Netherlands,NED,Europe,False,Cold War (1948-1988),2,4,4,10,13,1.98,0.2,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Sweden,SWE,Europe,False,Cold War (1948-1988),2,2,4,8,15,1.59,0.25,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),2,3,1,6,16,1.19,0.333,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Denmark,DEN,Europe,False,Cold War (1948-1988),2,1,3,6,16,1.19,0.333,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Finland,FIN,Europe,False,Cold War (1948-1988),3,0,2,5,18,0.99,0.6,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),3,0,2,5,18,0.99,0.6,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),2,1,2,5,18,0.99,0.4,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Canada,CAN,Americas,False,Cold War (1948-1988),1,2,1,4,21,0.79,0.25,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),1,2,1,4,21,0.79,0.25,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Belgium,BEL,Europe,False,Cold War (1948-1988),2,0,1,3,23,0.6,0.667,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),0,2,1,3,23,0.6,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Trinidad and Tobago,TTO,Americas,False,Cold War (1948-1988),0,1,2,3,23,0.6,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Tunisia,TUN,Africa,False,Cold War (1948-1988),0,1,1,2,26,0.4,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),0,0,2,2,26,0.4,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Ethiopia,ETH,Africa,False,Cold War (1948-1988),1,0,0,1,28,0.2,1.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,India,IND,Asia,False,Cold War (1948-1988),1,0,0,1,28,0.2,1.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,The Bahamas,BAH,Americas,False,Cold War (1948-1988),1,0,0,1,28,0.2,1.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Argentina,ARG,Americas,False,Cold War (1948-1988),0,1,0,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Cuba,CUB,Americas,False,Cold War (1948-1988),0,1,0,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),0,1,0,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Philippines,PHI,Asia,False,Cold War (1948-1988),0,1,0,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Brazil,BRA,Americas,False,Cold War (1948-1988),0,0,1,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Ghana,GHA,Africa,False,Cold War (1948-1988),0,0,1,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Ireland,IRL,Europe,False,Cold War (1948-1988),0,0,1,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Kenya,KEN,Africa,False,Cold War (1948-1988),0,0,1,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Mexico,MEX,Americas,False,Cold War (1948-1988),0,0,1,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Nigeria,NGR,Africa,False,Cold War (1948-1988),0,0,1,1,28,0.2,0.0,41,True
+1964,1964 Summer Olympics,16,Tokyo,JPN,False,Uruguay,URU,Americas,False,Cold War (1948-1988),0,0,1,1,28,0.2,0.0,41,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,United States,USA,Americas,False,Cold War (1948-1988),45,28,34,107,1,20.3,0.421,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),29,32,30,91,2,17.27,0.319,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Hungary,HUN,Europe,False,Cold War (1948-1988),10,10,12,32,3,6.07,0.312,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,West Germany,FRG,Europe,True,Cold War (1948-1988),5,11,10,26,4,4.93,0.192,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Japan,JPN,Asia,False,Cold War (1948-1988),11,7,7,25,5,4.74,0.44,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,East Germany,GDR,Europe,True,Cold War (1948-1988),9,9,7,25,5,4.74,0.36,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Poland,POL,Europe,False,Cold War (1948-1988),5,2,11,18,7,3.42,0.278,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Australia,AUS,Oceania,False,Cold War (1948-1988),5,7,5,17,8,3.23,0.294,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Italy,ITA,Europe,False,Cold War (1948-1988),3,4,9,16,9,3.04,0.188,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,France,FRA,Europe,False,Cold War (1948-1988),7,3,5,15,10,2.85,0.467,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Romania,ROU,Europe,False,Cold War (1948-1988),4,6,5,15,10,2.85,0.267,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),7,2,4,13,12,2.47,0.538,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),5,5,3,13,12,2.47,0.385,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Kenya,KEN,Africa,False,Cold War (1948-1988),3,4,2,9,14,1.71,0.333,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,True,Mexico,MEX,Americas,False,Cold War (1948-1988),3,3,3,9,14,1.71,0.333,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),2,4,3,9,14,1.71,0.222,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),3,3,2,8,17,1.52,0.375,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Denmark,DEN,Europe,False,Cold War (1948-1988),1,4,3,8,17,1.52,0.125,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Netherlands,NED,Europe,False,Cold War (1948-1988),3,3,1,7,19,1.33,0.429,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),2,1,2,5,20,0.95,0.4,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Canada,CAN,Americas,False,Cold War (1948-1988),1,3,1,5,20,0.95,0.2,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),0,1,4,5,20,0.95,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Sweden,SWE,Europe,False,Cold War (1948-1988),2,1,1,4,23,0.76,0.5,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Finland,FIN,Europe,False,Cold War (1948-1988),1,2,1,4,23,0.76,0.25,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Cuba,CUB,Americas,False,Cold War (1948-1988),0,4,0,4,23,0.76,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Austria,AUT,Europe,False,Cold War (1948-1988),0,2,2,4,23,0.76,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Mongolia,MGL,Asia,False,Cold War (1948-1988),0,1,3,4,23,0.76,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),1,0,2,3,28,0.57,0.333,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Brazil,BRA,Americas,False,Cold War (1948-1988),0,1,2,3,28,0.57,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),2,0,0,2,30,0.38,1.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Ethiopia,ETH,Africa,False,Cold War (1948-1988),1,1,0,2,30,0.38,0.5,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Norway,NOR,Europe,False,Cold War (1948-1988),1,1,0,2,30,0.38,0.5,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Tunisia,TUN,Africa,False,Cold War (1948-1988),1,0,1,2,30,0.38,0.5,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Belgium,BEL,Europe,False,Cold War (1948-1988),0,1,1,2,30,0.38,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),0,1,1,2,30,0.38,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Uganda,UGA,Africa,False,Cold War (1948-1988),0,1,1,2,30,0.38,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Argentina,ARG,Americas,False,Cold War (1948-1988),0,0,2,2,30,0.38,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),1,0,0,1,38,0.19,1.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Venezuela,VEN,Americas,False,Cold War (1948-1988),1,0,0,1,38,0.19,1.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Cameroon,CMR,Africa,False,Cold War (1948-1988),0,1,0,1,38,0.19,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),0,1,0,1,38,0.19,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Chinese Taipei,TPE,Asia,False,Cold War (1948-1988),0,0,1,1,38,0.19,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,Greece,GRE,Europe,False,Cold War (1948-1988),0,0,1,1,38,0.19,0.0,44,True
+1968,1968 Summer Olympics,17,Mexico City,MEX,False,India,IND,Asia,False,Cold War (1948-1988),0,0,1,1,38,0.19,0.0,44,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),50,27,22,99,1,16.5,0.505,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,United States,USA,Americas,False,Cold War (1948-1988),33,31,30,94,2,15.67,0.351,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,East Germany,GDR,Europe,True,Cold War (1948-1988),20,23,23,66,3,11.0,0.303,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,True,West Germany,FRG,Europe,True,Cold War (1948-1988),13,11,16,40,4,6.67,0.325,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Hungary,HUN,Europe,False,Cold War (1948-1988),6,13,16,35,5,5.83,0.171,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Japan,JPN,Asia,False,Cold War (1948-1988),13,8,8,29,6,4.83,0.448,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Poland,POL,Europe,False,Cold War (1948-1988),7,5,9,21,7,3.5,0.333,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),6,10,5,21,7,3.5,0.286,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Italy,ITA,Europe,False,Cold War (1948-1988),5,3,10,18,9,3.0,0.278,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),4,5,9,18,9,3.0,0.222,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Australia,AUS,Oceania,False,Cold War (1948-1988),8,7,2,17,11,2.83,0.471,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Sweden,SWE,Europe,False,Cold War (1948-1988),4,6,6,16,12,2.67,0.25,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Romania,ROU,Europe,False,Cold War (1948-1988),3,6,7,16,12,2.67,0.188,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,France,FRA,Europe,False,Cold War (1948-1988),2,4,7,13,14,2.17,0.154,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Kenya,KEN,Africa,False,Cold War (1948-1988),2,3,4,9,15,1.5,0.222,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Cuba,CUB,Americas,False,Cold War (1948-1988),3,1,4,8,16,1.33,0.375,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Finland,FIN,Europe,False,Cold War (1948-1988),3,1,4,8,16,1.33,0.375,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),2,4,2,8,16,1.33,0.25,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Netherlands,NED,Europe,False,Cold War (1948-1988),3,1,1,5,19,0.83,0.6,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),2,1,2,5,19,0.83,0.4,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Democratic People's Republic of Korea,PRK,Asia,False,Cold War (1948-1988),1,1,3,5,19,0.83,0.2,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Canada,CAN,Americas,False,Cold War (1948-1988),0,2,3,5,19,0.83,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Norway,NOR,Europe,False,Cold War (1948-1988),2,1,1,4,23,0.67,0.5,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),1,1,1,3,24,0.5,0.333,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),0,3,0,3,24,0.5,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),0,2,1,3,24,0.5,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Austria,AUT,Europe,False,Cold War (1948-1988),0,1,2,3,24,0.5,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Colombia,COL,Americas,False,Cold War (1948-1988),0,1,2,3,24,0.5,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Uganda,UGA,Africa,False,Cold War (1948-1988),1,1,0,2,29,0.33,0.5,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Belgium,BEL,Europe,False,Cold War (1948-1988),0,2,0,2,29,0.33,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Greece,GRE,Europe,False,Cold War (1948-1988),0,2,0,2,29,0.33,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Brazil,BRA,Americas,False,Cold War (1948-1988),0,0,2,2,29,0.33,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Ethiopia,ETH,Africa,False,Cold War (1948-1988),0,0,2,2,29,0.33,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Denmark,DEN,Europe,False,Cold War (1948-1988),1,0,0,1,34,0.17,1.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Argentina,ARG,Americas,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Lebanon,LBN,Asia,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Mexico,MEX,Americas,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Mongolia,MGL,Asia,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Tunisia,TUN,Africa,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),0,1,0,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Ghana,GHA,Africa,False,Cold War (1948-1988),0,0,1,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,India,IND,Asia,False,Cold War (1948-1988),0,0,1,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),0,0,1,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Niger,NIG,Africa,False,Cold War (1948-1988),0,0,1,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Nigeria,NGR,Africa,False,Cold War (1948-1988),0,0,1,1,34,0.17,0.0,48,True
+1972,1972 Summer Olympics,18,Munich,FRG,False,Spain,ESP,Europe,False,Cold War (1948-1988),0,0,1,1,34,0.17,0.0,48,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),49,41,35,125,1,20.39,0.392,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,United States,USA,Americas,False,Cold War (1948-1988),34,35,25,94,2,15.33,0.362,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,East Germany,GDR,Europe,True,Cold War (1948-1988),40,25,25,90,3,14.68,0.444,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,West Germany,FRG,Europe,True,Cold War (1948-1988),10,12,17,39,4,6.36,0.256,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Romania,ROU,Europe,False,Cold War (1948-1988),4,9,14,27,5,4.4,0.148,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Poland,POL,Europe,False,Cold War (1948-1988),7,6,13,26,6,4.24,0.269,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Japan,JPN,Asia,False,Cold War (1948-1988),9,6,10,25,7,4.08,0.36,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),6,9,7,22,8,3.59,0.273,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Hungary,HUN,Europe,False,Cold War (1948-1988),4,5,13,22,8,3.59,0.182,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Cuba,CUB,Americas,False,Cold War (1948-1988),6,4,3,13,10,2.12,0.462,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),3,5,5,13,10,2.12,0.231,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Italy,ITA,Europe,False,Cold War (1948-1988),2,7,4,13,10,2.12,0.154,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,True,Canada,CAN,Americas,False,Cold War (1948-1988),0,5,6,11,13,1.79,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,France,FRA,Europe,False,Cold War (1948-1988),2,3,4,9,14,1.47,0.222,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),2,3,3,8,15,1.31,0.25,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),2,2,4,8,15,1.31,0.25,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Finland,FIN,Europe,False,Cold War (1948-1988),4,2,0,6,17,0.98,0.667,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),1,1,4,6,17,0.98,0.167,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Belgium,BEL,Europe,False,Cold War (1948-1988),0,3,3,6,17,0.98,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Sweden,SWE,Europe,False,Cold War (1948-1988),4,1,0,5,20,0.82,0.8,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Netherlands,NED,Europe,False,Cold War (1948-1988),0,2,3,5,20,0.82,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Australia,AUS,Oceania,False,Cold War (1948-1988),0,1,4,5,20,0.82,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),2,1,1,4,23,0.65,0.5,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),1,1,2,4,23,0.65,0.25,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Denmark,DEN,Europe,False,Cold War (1948-1988),1,0,2,3,25,0.49,0.333,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Democratic People's Republic of Korea,PRK,Asia,False,Cold War (1948-1988),1,1,0,2,26,0.33,0.5,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),1,1,0,2,26,0.33,0.5,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Norway,NOR,Europe,False,Cold War (1948-1988),1,1,0,2,26,0.33,0.5,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Mexico,MEX,Americas,False,Cold War (1948-1988),1,0,1,2,26,0.33,0.5,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Portugal,POR,Europe,False,Cold War (1948-1988),0,2,0,2,26,0.33,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Spain,ESP,Europe,False,Cold War (1948-1988),0,2,0,2,26,0.33,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),0,1,1,2,26,0.33,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Brazil,BRA,Americas,False,Cold War (1948-1988),0,0,2,2,26,0.33,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Trinidad and Tobago,TTO,Americas,False,Cold War (1948-1988),1,0,0,1,34,0.16,1.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Mongolia,MGL,Asia,False,Cold War (1948-1988),0,1,0,1,34,0.16,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Venezuela,VEN,Americas,False,Cold War (1948-1988),0,1,0,1,34,0.16,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Austria,AUT,Europe,False,Cold War (1948-1988),0,0,1,1,34,0.16,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Bermuda,BER,Americas,False,Cold War (1948-1988),0,0,1,1,34,0.16,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),0,0,1,1,34,0.16,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Puerto Rico,PUR,Americas,False,Cold War (1948-1988),0,0,1,1,34,0.16,0.0,41,True
+1976,1976 Summer Olympics,19,Montreal,CAN,False,Thailand,THA,Asia,False,Cold War (1948-1988),0,0,1,1,34,0.16,0.0,41,True
+1980,1980 Summer Olympics,20,Moscow,URS,True,Soviet Union,URS,Europe,True,Cold War (1948-1988),80,69,46,195,1,30.9,0.41,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,East Germany,GDR,Europe,True,Cold War (1948-1988),47,37,42,126,2,19.97,0.373,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),8,16,17,41,3,6.5,0.195,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Hungary,HUN,Europe,False,Cold War (1948-1988),7,10,15,32,4,5.07,0.219,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Poland,POL,Europe,False,Cold War (1948-1988),3,14,15,32,4,5.07,0.094,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Romania,ROU,Europe,False,Cold War (1948-1988),6,6,13,25,6,3.96,0.24,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),5,7,9,21,7,3.33,0.238,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Cuba,CUB,Americas,False,Cold War (1948-1988),8,7,5,20,8,3.17,0.4,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Italy,ITA,Europe,False,Cold War (1948-1988),8,3,4,15,9,2.38,0.533,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,France,FRA,Europe,False,Cold War (1948-1988),6,5,3,14,10,2.22,0.429,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),2,3,9,14,10,2.22,0.143,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Sweden,SWE,Europe,False,Cold War (1948-1988),3,3,6,12,12,1.9,0.25,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),2,3,4,9,13,1.43,0.222,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Australia,AUS,Oceania,False,Cold War (1948-1988),2,2,5,9,13,1.43,0.222,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Finland,FIN,Europe,False,Cold War (1948-1988),3,1,4,8,15,1.27,0.375,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Spain,ESP,Europe,False,Cold War (1948-1988),1,3,2,6,16,0.95,0.167,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Denmark,DEN,Europe,False,Cold War (1948-1988),2,1,2,5,17,0.79,0.4,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Democratic People's Republic of Korea,PRK,Asia,False,Cold War (1948-1988),0,3,2,5,17,0.79,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Brazil,BRA,Americas,False,Cold War (1948-1988),2,0,2,4,19,0.63,0.5,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Ethiopia,ETH,Africa,False,Cold War (1948-1988),2,0,2,4,19,0.63,0.5,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Austria,AUT,Europe,False,Cold War (1948-1988),1,2,1,4,19,0.63,0.25,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Mongolia,MGL,Asia,False,Cold War (1948-1988),0,2,2,4,19,0.63,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Mexico,MEX,Americas,False,Cold War (1948-1988),0,1,3,4,19,0.63,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Greece,GRE,Europe,False,Cold War (1948-1988),1,0,2,3,24,0.48,0.333,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Netherlands,NED,Europe,False,Cold War (1948-1988),0,1,2,3,24,0.48,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),0,0,3,3,24,0.48,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),2,0,0,2,27,0.32,1.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,United Republic of Tanzania,TAN,Africa,False,Cold War (1948-1988),0,2,0,2,27,0.32,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Ireland,IRL,Europe,False,Cold War (1948-1988),0,1,1,2,27,0.32,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Belgium,BEL,Europe,False,Cold War (1948-1988),1,0,0,1,30,0.16,1.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,India,IND,Asia,False,Cold War (1948-1988),1,0,0,1,30,0.16,1.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Zimbabwe,ZIM,Africa,False,Cold War (1948-1988),1,0,0,1,30,0.16,1.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Uganda,UGA,Africa,False,Cold War (1948-1988),0,1,0,1,30,0.16,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Venezuela,VEN,Americas,False,Cold War (1948-1988),0,1,0,1,30,0.16,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Guyana,GUY,Americas,False,Cold War (1948-1988),0,0,1,1,30,0.16,0.0,36,True
+1980,1980 Summer Olympics,20,Moscow,URS,False,Lebanon,LBN,Asia,False,Cold War (1948-1988),0,0,1,1,30,0.16,0.0,36,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,True,United States,USA,Americas,False,Cold War (1948-1988),83,61,30,174,1,25.29,0.477,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,West Germany,FRG,Europe,True,Cold War (1948-1988),17,19,23,59,2,8.58,0.288,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Romania,ROU,Europe,False,Cold War (1948-1988),20,16,17,53,3,7.7,0.377,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Canada,CAN,Americas,False,Cold War (1948-1988),10,18,16,44,4,6.4,0.227,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),5,11,21,37,5,5.38,0.135,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,People's Republic of China,CHN,Asia,False,Cold War (1948-1988),15,8,9,32,6,4.65,0.469,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Italy,ITA,Europe,False,Cold War (1948-1988),14,6,12,32,6,4.65,0.438,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Japan,JPN,Asia,False,Cold War (1948-1988),10,8,14,32,6,4.65,0.312,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,France,FRA,Europe,False,Cold War (1948-1988),5,7,16,28,9,4.07,0.179,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Australia,AUS,Oceania,False,Cold War (1948-1988),4,8,12,24,10,3.49,0.167,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),6,6,7,19,11,2.76,0.316,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Sweden,SWE,Europe,False,Cold War (1948-1988),2,11,6,19,11,2.76,0.105,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),7,4,7,18,13,2.62,0.389,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Netherlands,NED,Europe,False,Cold War (1948-1988),5,2,6,13,14,1.89,0.385,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Finland,FIN,Europe,False,Cold War (1948-1988),4,2,6,12,15,1.74,0.333,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),8,1,2,11,16,1.6,0.727,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Brazil,BRA,Americas,False,Cold War (1948-1988),1,5,2,8,17,1.16,0.125,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),0,4,4,8,17,1.16,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Mexico,MEX,Americas,False,Cold War (1948-1988),2,3,1,6,19,0.87,0.333,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Denmark,DEN,Europe,False,Cold War (1948-1988),0,3,3,6,19,0.87,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Spain,ESP,Europe,False,Cold War (1948-1988),1,2,2,5,21,0.73,0.2,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Belgium,BEL,Europe,False,Cold War (1948-1988),1,1,2,4,22,0.58,0.25,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Austria,AUT,Europe,False,Cold War (1948-1988),1,1,1,3,23,0.44,0.333,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Kenya,KEN,Africa,False,Cold War (1948-1988),1,0,2,3,23,0.44,0.333,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Portugal,POR,Europe,False,Cold War (1948-1988),1,0,2,3,23,0.44,0.333,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),0,1,2,3,23,0.44,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Norway,NOR,Europe,False,Cold War (1948-1988),0,1,2,3,23,0.44,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),0,0,3,3,23,0.44,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Venezuela,VEN,Americas,False,Cold War (1948-1988),0,0,3,3,23,0.44,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Morocco,MAR,Africa,False,Cold War (1948-1988),2,0,0,2,30,0.29,1.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Greece,GRE,Europe,False,Cold War (1948-1988),0,1,1,2,30,0.29,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Nigeria,NGR,Africa,False,Cold War (1948-1988),0,1,1,2,30,0.29,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Puerto Rico,PUR,Americas,False,Cold War (1948-1988),0,1,1,2,30,0.29,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Algeria,ALG,Africa,False,Cold War (1948-1988),0,0,2,2,30,0.29,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),1,0,0,1,35,0.15,1.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Colombia,COL,Americas,False,Cold War (1948-1988),0,1,0,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Côte d'Ivoire,CIV,Africa,False,Cold War (1948-1988),0,1,0,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Egypt,EGY,Africa,False,Cold War (1948-1988),0,1,0,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Ireland,IRL,Europe,False,Cold War (1948-1988),0,1,0,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Peru,PER,Americas,False,Cold War (1948-1988),0,1,0,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Syrian Arab Republic,SYR,Asia,False,Cold War (1948-1988),0,1,0,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Thailand,THA,Asia,False,Cold War (1948-1988),0,1,0,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Cameroon,CMR,Africa,False,Cold War (1948-1988),0,0,1,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Chinese Taipei,TPE,Asia,False,Cold War (1948-1988),0,0,1,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Dominican Republic,DOM,Americas,False,Cold War (1948-1988),0,0,1,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Iceland,ISL,Europe,False,Cold War (1948-1988),0,0,1,1,35,0.15,0.0,47,True
+1984,1984 Summer Olympics,21,Los Angeles,USA,False,Zambia,ZAM,Africa,False,Cold War (1948-1988),0,0,1,1,35,0.15,0.0,47,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Soviet Union,URS,Europe,True,Cold War (1948-1988),55,31,46,132,1,17.86,0.417,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,East Germany,GDR,Europe,True,Cold War (1948-1988),37,35,30,102,2,13.8,0.363,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,United States,USA,Americas,False,Cold War (1948-1988),36,31,27,94,3,12.72,0.383,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,West Germany,FRG,Europe,True,Cold War (1948-1988),11,14,15,40,4,5.41,0.275,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Bulgaria,BUL,Europe,False,Cold War (1948-1988),10,12,13,35,5,4.74,0.286,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,True,Republic of Korea,KOR,Asia,False,Cold War (1948-1988),12,10,11,33,6,4.47,0.364,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,People's Republic of China,CHN,Asia,False,Cold War (1948-1988),5,11,12,28,7,3.79,0.179,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Romania,ROU,Europe,False,Cold War (1948-1988),7,11,6,24,8,3.25,0.292,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Great Britain,GBR,Europe,False,Cold War (1948-1988),5,10,9,24,8,3.25,0.208,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Hungary,HUN,Europe,False,Cold War (1948-1988),11,6,6,23,10,3.11,0.478,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,France,FRA,Europe,False,Cold War (1948-1988),6,4,6,16,11,2.17,0.375,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Poland,POL,Europe,False,Cold War (1948-1988),2,5,9,16,11,2.17,0.125,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Italy,ITA,Europe,False,Cold War (1948-1988),6,4,4,14,13,1.89,0.429,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Japan,JPN,Asia,False,Cold War (1948-1988),4,3,7,14,13,1.89,0.286,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Australia,AUS,Oceania,False,Cold War (1948-1988),3,6,5,14,13,1.89,0.214,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,New Zealand,NZL,Oceania,False,Cold War (1948-1988),3,2,8,13,16,1.76,0.231,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Yugoslavia,YUG,Europe,True,Cold War (1948-1988),3,4,5,12,17,1.62,0.25,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Sweden,SWE,Europe,False,Cold War (1948-1988),0,4,7,11,18,1.49,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Canada,CAN,Americas,False,Cold War (1948-1988),3,2,5,10,19,1.35,0.3,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Kenya,KEN,Africa,False,Cold War (1948-1988),5,2,2,9,20,1.22,0.556,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Netherlands,NED,Europe,False,Cold War (1948-1988),2,2,5,9,20,1.22,0.222,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Czechoslovakia,TCH,Europe,True,Cold War (1948-1988),3,3,2,8,22,1.08,0.375,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Brazil,BRA,Americas,False,Cold War (1948-1988),1,2,3,6,23,0.81,0.167,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Norway,NOR,Europe,False,Cold War (1948-1988),2,3,0,5,24,0.68,0.4,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Denmark,DEN,Europe,False,Cold War (1948-1988),2,1,1,4,25,0.54,0.5,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Finland,FIN,Europe,False,Cold War (1948-1988),1,1,2,4,25,0.54,0.25,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Spain,ESP,Europe,False,Cold War (1948-1988),1,1,2,4,25,0.54,0.25,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Switzerland,SUI,Europe,False,Cold War (1948-1988),0,2,2,4,25,0.54,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Morocco,MAR,Africa,False,Cold War (1948-1988),1,0,2,3,29,0.41,0.333,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Türkiye,TUR,Europe,False,Cold War (1948-1988),1,1,0,2,30,0.27,0.5,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Jamaica,JAM,Americas,False,Cold War (1948-1988),0,2,0,2,30,0.27,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Argentina,ARG,Americas,False,Cold War (1948-1988),0,1,1,2,30,0.27,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Belgium,BEL,Europe,False,Cold War (1948-1988),0,0,2,2,30,0.27,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Mexico,MEX,Americas,False,Cold War (1948-1988),0,0,2,2,30,0.27,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Austria,AUT,Europe,False,Cold War (1948-1988),1,0,0,1,35,0.14,1.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Portugal,POR,Europe,False,Cold War (1948-1988),1,0,0,1,35,0.14,1.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Suriname,SUR,Americas,False,Cold War (1948-1988),1,0,0,1,35,0.14,1.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Chile,CHI,Americas,False,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Costa Rica,CRC,Americas,False,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Indonesia,INA,Asia,False,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Islamic Republic of Iran,IRI,Asia,False,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Netherlands Antilles,AHO,Americas,True,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Peru,PER,Americas,False,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Senegal,SEN,Africa,False,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,United States Virgin Islands,ISV,Americas,False,Cold War (1948-1988),0,1,0,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Colombia,COL,Americas,False,Cold War (1948-1988),0,0,1,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Djibouti,DJI,Africa,False,Cold War (1948-1988),0,0,1,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Greece,GRE,Europe,False,Cold War (1948-1988),0,0,1,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Mongolia,MGL,Asia,False,Cold War (1948-1988),0,0,1,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Pakistan,PAK,Asia,False,Cold War (1948-1988),0,0,1,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Philippines,PHI,Asia,False,Cold War (1948-1988),0,0,1,1,35,0.14,0.0,52,True
+1988,1988 Summer Olympics,22,Seoul,KOR,False,Thailand,THA,Asia,False,Cold War (1948-1988),0,0,1,1,35,0.14,0.0,52,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Unified Team,EUN,Europe,True,Post-Cold War (1992-2000),45,38,29,112,1,13.74,0.402,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,United States,USA,Americas,False,Post-Cold War (1992-2000),37,34,37,108,2,13.25,0.343,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Germany,GER,Europe,False,Post-Cold War (1992-2000),33,21,28,82,3,10.06,0.402,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,People's Republic of China,CHN,Asia,False,Post-Cold War (1992-2000),16,22,16,54,4,6.63,0.296,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Cuba,CUB,Americas,False,Post-Cold War (1992-2000),14,6,11,31,5,3.8,0.452,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Hungary,HUN,Europe,False,Post-Cold War (1992-2000),11,12,7,30,6,3.68,0.367,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Republic of Korea,KOR,Asia,False,Post-Cold War (1992-2000),12,5,12,29,7,3.56,0.414,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,France,FRA,Europe,False,Post-Cold War (1992-2000),8,5,16,29,7,3.56,0.276,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Australia,AUS,Oceania,False,Post-Cold War (1992-2000),7,9,11,27,9,3.31,0.259,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,True,Spain,ESP,Europe,False,Post-Cold War (1992-2000),13,7,2,22,10,2.7,0.591,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Japan,JPN,Asia,False,Post-Cold War (1992-2000),3,8,11,22,10,2.7,0.136,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Great Britain,GBR,Europe,False,Post-Cold War (1992-2000),5,3,12,20,12,2.45,0.25,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Italy,ITA,Europe,False,Post-Cold War (1992-2000),6,5,8,19,13,2.33,0.316,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Poland,POL,Europe,False,Post-Cold War (1992-2000),3,6,10,19,13,2.33,0.158,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Canada,CAN,Americas,False,Post-Cold War (1992-2000),7,4,7,18,15,2.21,0.389,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Romania,ROU,Europe,False,Post-Cold War (1992-2000),4,6,8,18,15,2.21,0.222,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Bulgaria,BUL,Europe,False,Post-Cold War (1992-2000),3,7,6,16,17,1.96,0.188,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Netherlands,NED,Europe,False,Post-Cold War (1992-2000),2,6,7,15,18,1.84,0.133,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Sweden,SWE,Europe,False,Post-Cold War (1992-2000),1,7,4,12,19,1.47,0.083,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,New Zealand,NZL,Oceania,False,Post-Cold War (1992-2000),1,4,5,10,20,1.23,0.1,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Democratic People's Republic of Korea,PRK,Asia,False,Post-Cold War (1992-2000),4,0,5,9,21,1.1,0.444,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Kenya,KEN,Africa,False,Post-Cold War (1992-2000),2,4,2,8,22,0.98,0.25,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Czechoslovakia,TCH,Europe,True,Post-Cold War (1992-2000),4,2,1,7,23,0.86,0.571,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Norway,NOR,Europe,False,Post-Cold War (1992-2000),2,4,1,7,23,0.86,0.286,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Türkiye,TUR,Europe,False,Post-Cold War (1992-2000),2,2,2,6,25,0.74,0.333,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Denmark,DEN,Europe,False,Post-Cold War (1992-2000),1,1,4,6,25,0.74,0.167,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Indonesia,INA,Asia,False,Post-Cold War (1992-2000),2,2,1,5,27,0.61,0.4,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Finland,FIN,Europe,False,Post-Cold War (1992-2000),1,2,2,5,27,0.61,0.2,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Jamaica,JAM,Americas,False,Post-Cold War (1992-2000),0,3,1,4,29,0.49,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Nigeria,NGR,Africa,False,Post-Cold War (1992-2000),0,3,1,4,29,0.49,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Brazil,BRA,Americas,False,Post-Cold War (1992-2000),2,1,0,3,31,0.37,0.667,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Morocco,MAR,Africa,False,Post-Cold War (1992-2000),1,1,1,3,31,0.37,0.333,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Ethiopia,ETH,Africa,False,Post-Cold War (1992-2000),1,0,2,3,31,0.37,0.333,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Latvia,LAT,Europe,False,Post-Cold War (1992-2000),0,2,1,3,31,0.37,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Belgium,BEL,Europe,False,Post-Cold War (1992-2000),0,1,2,3,31,0.37,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Croatia,CRO,Europe,False,Post-Cold War (1992-2000),0,1,2,3,31,0.37,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Independent Olympic Athletes,IOA,Mixed/Other,False,Post-Cold War (1992-2000),0,1,2,3,31,0.37,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Islamic Republic of Iran,IRI,Asia,False,Post-Cold War (1992-2000),0,1,2,3,31,0.37,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Greece,GRE,Europe,False,Post-Cold War (1992-2000),2,0,0,2,39,0.25,1.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Ireland,IRL,Europe,False,Post-Cold War (1992-2000),1,1,0,2,39,0.25,0.5,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Algeria,ALG,Africa,False,Post-Cold War (1992-2000),1,0,1,2,39,0.25,0.5,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Estonia,EST,Europe,False,Post-Cold War (1992-2000),1,0,1,2,39,0.25,0.5,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Lithuania,LTU,Europe,False,Post-Cold War (1992-2000),1,0,1,2,39,0.25,0.5,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Austria,AUT,Europe,False,Post-Cold War (1992-2000),0,2,0,2,39,0.25,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Namibia,NAM,Africa,False,Post-Cold War (1992-2000),0,2,0,2,39,0.25,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,South Africa,RSA,Africa,False,Post-Cold War (1992-2000),0,2,0,2,39,0.25,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Israel,ISR,Asia,False,Post-Cold War (1992-2000),0,1,1,2,39,0.25,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Mongolia,MGL,Asia,False,Post-Cold War (1992-2000),0,0,2,2,39,0.25,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Slovenia,SLO,Europe,False,Post-Cold War (1992-2000),0,0,2,2,39,0.25,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Switzerland,SUI,Europe,False,Post-Cold War (1992-2000),1,0,0,1,50,0.12,1.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Chinese Taipei,TPE,Asia,False,Post-Cold War (1992-2000),0,1,0,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Mexico,MEX,Americas,False,Post-Cold War (1992-2000),0,1,0,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Peru,PER,Americas,False,Post-Cold War (1992-2000),0,1,0,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Argentina,ARG,Americas,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Colombia,COL,Americas,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Ghana,GHA,Africa,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Malaysia,MAS,Asia,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Pakistan,PAK,Asia,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Philippines,PHI,Asia,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Puerto Rico,PUR,Americas,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Qatar,QAT,Asia,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Suriname,SUR,Americas,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,Thailand,THA,Asia,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1992,1992 Summer Olympics,23,Barcelona,ESP,False,The Bahamas,BAH,Americas,False,Post-Cold War (1992-2000),0,0,1,1,50,0.12,0.0,64,True
+1996,1996 Summer Olympics,24,Atlanta,USA,True,United States,USA,Americas,False,Post-Cold War (1992-2000),44,32,25,101,1,12.0,0.436,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Germany,GER,Europe,False,Post-Cold War (1992-2000),20,18,27,65,2,7.72,0.308,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Russian Federation,RUS,Europe,False,Post-Cold War (1992-2000),26,21,16,63,3,7.48,0.413,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,People's Republic of China,CHN,Asia,False,Post-Cold War (1992-2000),16,22,12,50,4,5.94,0.32,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Australia,AUS,Oceania,False,Post-Cold War (1992-2000),9,9,23,41,5,4.87,0.22,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,France,FRA,Europe,False,Post-Cold War (1992-2000),15,7,15,37,6,4.39,0.405,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Italy,ITA,Europe,False,Post-Cold War (1992-2000),13,10,12,35,7,4.16,0.371,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Republic of Korea,KOR,Asia,False,Post-Cold War (1992-2000),7,15,5,27,8,3.21,0.259,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Cuba,CUB,Americas,False,Post-Cold War (1992-2000),9,8,8,25,9,2.97,0.36,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Ukraine,UKR,Europe,False,Post-Cold War (1992-2000),9,2,12,23,10,2.73,0.391,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Canada,CAN,Americas,False,Post-Cold War (1992-2000),3,11,8,22,11,2.61,0.136,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Hungary,HUN,Europe,False,Post-Cold War (1992-2000),7,4,10,21,12,2.49,0.333,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Romania,ROU,Europe,False,Post-Cold War (1992-2000),4,7,9,20,13,2.38,0.2,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Netherlands,NED,Europe,False,Post-Cold War (1992-2000),4,5,10,19,14,2.26,0.211,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Poland,POL,Europe,False,Post-Cold War (1992-2000),7,5,5,17,15,2.02,0.412,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Spain,ESP,Europe,False,Post-Cold War (1992-2000),5,6,6,17,15,2.02,0.294,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Bulgaria,BUL,Europe,False,Post-Cold War (1992-2000),3,7,5,15,17,1.78,0.2,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Brazil,BRA,Americas,False,Post-Cold War (1992-2000),3,3,9,15,17,1.78,0.2,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Great Britain,GBR,Europe,False,Post-Cold War (1992-2000),1,8,6,15,17,1.78,0.067,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Belarus,BLR,Europe,False,Post-Cold War (1992-2000),1,6,8,15,17,1.78,0.067,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Japan,JPN,Asia,False,Post-Cold War (1992-2000),3,6,5,14,21,1.66,0.214,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Czechia,CZE,Europe,False,Post-Cold War (1992-2000),4,3,4,11,22,1.31,0.364,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Kazakhstan,KAZ,Asia,False,Post-Cold War (1992-2000),3,4,4,11,22,1.31,0.273,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Greece,GRE,Europe,False,Post-Cold War (1992-2000),4,4,0,8,24,0.95,0.5,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Sweden,SWE,Europe,False,Post-Cold War (1992-2000),2,4,2,8,24,0.95,0.25,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Kenya,KEN,Africa,False,Post-Cold War (1992-2000),1,4,3,8,24,0.95,0.125,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Switzerland,SUI,Europe,False,Post-Cold War (1992-2000),4,3,0,7,27,0.83,0.571,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Norway,NOR,Europe,False,Post-Cold War (1992-2000),2,2,3,7,27,0.83,0.286,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Denmark,DEN,Europe,False,Post-Cold War (1992-2000),4,1,1,6,29,0.71,0.667,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Türkiye,TUR,Europe,False,Post-Cold War (1992-2000),4,1,1,6,29,0.71,0.667,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,New Zealand,NZL,Oceania,False,Post-Cold War (1992-2000),3,2,1,6,29,0.71,0.5,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Belgium,BEL,Europe,False,Post-Cold War (1992-2000),2,2,2,6,29,0.71,0.333,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Nigeria,NGR,Africa,False,Post-Cold War (1992-2000),2,1,3,6,29,0.71,0.333,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Jamaica,JAM,Americas,False,Post-Cold War (1992-2000),1,3,2,6,29,0.71,0.167,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,South Africa,RSA,Africa,False,Post-Cold War (1992-2000),3,1,1,5,35,0.59,0.6,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Democratic People's Republic of Korea,PRK,Asia,False,Post-Cold War (1992-2000),2,1,2,5,35,0.59,0.4,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Ireland,IRL,Europe,False,Post-Cold War (1992-2000),3,0,1,4,37,0.48,0.75,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Finland,FIN,Europe,False,Post-Cold War (1992-2000),1,2,1,4,37,0.48,0.25,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Indonesia,INA,Asia,False,Post-Cold War (1992-2000),1,1,2,4,37,0.48,0.25,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Serbia and Montenegro,SCG,Europe,True,Post-Cold War (1992-2000),1,1,2,4,37,0.48,0.25,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Algeria,ALG,Africa,False,Post-Cold War (1992-2000),2,0,1,3,41,0.36,0.667,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Ethiopia,ETH,Africa,False,Post-Cold War (1992-2000),2,0,1,3,41,0.36,0.667,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Islamic Republic of Iran,IRI,Asia,False,Post-Cold War (1992-2000),1,1,1,3,41,0.36,0.333,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Slovakia,SVK,Europe,False,Post-Cold War (1992-2000),1,1,1,3,41,0.36,0.333,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Argentina,ARG,Americas,False,Post-Cold War (1992-2000),0,2,1,3,41,0.36,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Austria,AUT,Europe,False,Post-Cold War (1992-2000),0,1,2,3,41,0.36,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Armenia,ARM,Europe,False,Post-Cold War (1992-2000),1,1,0,2,47,0.24,0.5,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Croatia,CRO,Europe,False,Post-Cold War (1992-2000),1,1,0,2,47,0.24,0.5,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Portugal,POR,Europe,False,Post-Cold War (1992-2000),1,0,1,2,47,0.24,0.5,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Thailand,THA,Asia,False,Post-Cold War (1992-2000),1,0,1,2,47,0.24,0.5,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Namibia,NAM,Africa,False,Post-Cold War (1992-2000),0,2,0,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Slovenia,SLO,Europe,False,Post-Cold War (1992-2000),0,2,0,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Malaysia,MAS,Asia,False,Post-Cold War (1992-2000),0,1,1,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Republic of Moldova,MDA,Europe,False,Post-Cold War (1992-2000),0,1,1,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Uzbekistan,UZB,Asia,False,Post-Cold War (1992-2000),0,1,1,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Georgia,GEO,Europe,False,Post-Cold War (1992-2000),0,0,2,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Morocco,MAR,Africa,False,Post-Cold War (1992-2000),0,0,2,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Trinidad and Tobago,TTO,Americas,False,Post-Cold War (1992-2000),0,0,2,2,47,0.24,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Burundi,BDI,Africa,False,Post-Cold War (1992-2000),1,0,0,1,59,0.12,1.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Costa Rica,CRC,Americas,False,Post-Cold War (1992-2000),1,0,0,1,59,0.12,1.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Ecuador,ECU,Americas,False,Post-Cold War (1992-2000),1,0,0,1,59,0.12,1.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,"Hong Kong, China",HKG,Asia,False,Post-Cold War (1992-2000),1,0,0,1,59,0.12,1.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Syrian Arab Republic,SYR,Asia,False,Post-Cold War (1992-2000),1,0,0,1,59,0.12,1.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Azerbaijan,AZE,Europe,False,Post-Cold War (1992-2000),0,1,0,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Chinese Taipei,TPE,Asia,False,Post-Cold War (1992-2000),0,1,0,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Latvia,LAT,Europe,False,Post-Cold War (1992-2000),0,1,0,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Philippines,PHI,Asia,False,Post-Cold War (1992-2000),0,1,0,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,The Bahamas,BAH,Americas,False,Post-Cold War (1992-2000),0,1,0,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Tonga,TGA,Oceania,False,Post-Cold War (1992-2000),0,1,0,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Zambia,ZAM,Africa,False,Post-Cold War (1992-2000),0,1,0,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,India,IND,Asia,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Israel,ISR,Asia,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Lithuania,LTU,Europe,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Mexico,MEX,Americas,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Mongolia,MGL,Asia,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Mozambique,MOZ,Africa,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Puerto Rico,PUR,Americas,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Tunisia,TUN,Africa,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+1996,1996 Summer Olympics,24,Atlanta,USA,False,Uganda,UGA,Africa,False,Post-Cold War (1992-2000),0,0,1,1,59,0.12,0.0,79,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,United States,USA,Americas,False,Post-Cold War (1992-2000),37,24,32,93,1,10.03,0.398,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Russian Federation,RUS,Europe,False,Post-Cold War (1992-2000),32,28,29,89,2,9.6,0.36,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,People's Republic of China,CHN,Asia,False,Post-Cold War (1992-2000),28,16,14,58,3,6.26,0.483,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,True,Australia,AUS,Oceania,False,Post-Cold War (1992-2000),16,25,17,58,3,6.26,0.276,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Germany,GER,Europe,False,Post-Cold War (1992-2000),13,17,26,56,5,6.04,0.232,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,France,FRA,Europe,False,Post-Cold War (1992-2000),13,14,11,38,6,4.1,0.342,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Italy,ITA,Europe,False,Post-Cold War (1992-2000),13,8,13,34,7,3.67,0.382,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Cuba,CUB,Americas,False,Post-Cold War (1992-2000),11,11,7,29,8,3.13,0.379,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Great Britain,GBR,Europe,False,Post-Cold War (1992-2000),11,10,7,28,9,3.02,0.393,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Republic of Korea,KOR,Asia,False,Post-Cold War (1992-2000),8,10,10,28,9,3.02,0.286,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Romania,ROU,Europe,False,Post-Cold War (1992-2000),11,6,9,26,11,2.8,0.423,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Netherlands,NED,Europe,False,Post-Cold War (1992-2000),12,9,4,25,12,2.7,0.48,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Ukraine,UKR,Europe,False,Post-Cold War (1992-2000),3,10,10,23,13,2.48,0.13,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Japan,JPN,Asia,False,Post-Cold War (1992-2000),5,8,5,18,14,1.94,0.278,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Hungary,HUN,Europe,False,Post-Cold War (1992-2000),8,6,3,17,15,1.83,0.471,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Belarus,BLR,Europe,False,Post-Cold War (1992-2000),3,3,11,17,15,1.83,0.176,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Poland,POL,Europe,False,Post-Cold War (1992-2000),6,5,3,14,17,1.51,0.429,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Canada,CAN,Americas,False,Post-Cold War (1992-2000),3,3,8,14,17,1.51,0.214,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Bulgaria,BUL,Europe,False,Post-Cold War (1992-2000),5,6,2,13,19,1.4,0.385,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Greece,GRE,Europe,False,Post-Cold War (1992-2000),4,6,3,13,19,1.4,0.308,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Sweden,SWE,Europe,False,Post-Cold War (1992-2000),4,5,3,12,21,1.29,0.333,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Brazil,BRA,Americas,False,Post-Cold War (1992-2000),0,6,6,12,21,1.29,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Spain,ESP,Europe,False,Post-Cold War (1992-2000),3,3,5,11,23,1.19,0.273,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Norway,NOR,Europe,False,Post-Cold War (1992-2000),4,3,3,10,24,1.08,0.4,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Switzerland,SUI,Europe,False,Post-Cold War (1992-2000),1,6,2,9,25,0.97,0.111,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Jamaica,JAM,Americas,False,Post-Cold War (1992-2000),0,6,3,9,25,0.97,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Ethiopia,ETH,Africa,False,Post-Cold War (1992-2000),4,1,3,8,27,0.86,0.5,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Czechia,CZE,Europe,False,Post-Cold War (1992-2000),2,3,3,8,27,0.86,0.25,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Kazakhstan,KAZ,Asia,False,Post-Cold War (1992-2000),3,4,0,7,29,0.76,0.429,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Kenya,KEN,Africa,False,Post-Cold War (1992-2000),2,3,2,7,29,0.76,0.286,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Denmark,DEN,Europe,False,Post-Cold War (1992-2000),2,3,1,6,31,0.65,0.333,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Indonesia,INA,Asia,False,Post-Cold War (1992-2000),1,3,2,6,31,0.65,0.167,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Mexico,MEX,Americas,False,Post-Cold War (1992-2000),1,2,3,6,31,0.65,0.167,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Georgia,GEO,Europe,False,Post-Cold War (1992-2000),0,0,6,6,31,0.65,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Türkiye,TUR,Europe,False,Post-Cold War (1992-2000),3,0,2,5,35,0.54,0.6,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Lithuania,LTU,Europe,False,Post-Cold War (1992-2000),2,0,3,5,35,0.54,0.4,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Slovakia,SVK,Europe,False,Post-Cold War (1992-2000),1,3,1,5,35,0.54,0.2,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Algeria,ALG,Africa,False,Post-Cold War (1992-2000),1,1,3,5,35,0.54,0.2,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Belgium,BEL,Europe,False,Post-Cold War (1992-2000),0,2,3,5,35,0.54,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,South Africa,RSA,Africa,False,Post-Cold War (1992-2000),0,2,3,5,35,0.54,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Chinese Taipei,TPE,Asia,False,Post-Cold War (1992-2000),0,1,4,5,35,0.54,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Morocco,MAR,Africa,False,Post-Cold War (1992-2000),0,1,4,5,35,0.54,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Islamic Republic of Iran,IRI,Asia,False,Post-Cold War (1992-2000),3,0,1,4,43,0.43,0.75,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Finland,FIN,Europe,False,Post-Cold War (1992-2000),2,1,1,4,43,0.43,0.5,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Uzbekistan,UZB,Asia,False,Post-Cold War (1992-2000),1,1,2,4,43,0.43,0.25,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,New Zealand,NZL,Oceania,False,Post-Cold War (1992-2000),1,0,3,4,43,0.43,0.25,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Argentina,ARG,Americas,False,Post-Cold War (1992-2000),0,2,2,4,43,0.43,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Democratic People's Republic of Korea,PRK,Asia,False,Post-Cold War (1992-2000),0,1,3,4,43,0.43,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Austria,AUT,Europe,False,Post-Cold War (1992-2000),2,1,0,3,49,0.32,0.667,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Azerbaijan,AZE,Europe,False,Post-Cold War (1992-2000),2,0,1,3,49,0.32,0.667,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,The Bahamas,BAH,Americas,False,Post-Cold War (1992-2000),2,0,1,3,49,0.32,0.667,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Nigeria,NGR,Africa,False,Post-Cold War (1992-2000),1,2,0,3,49,0.32,0.333,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Latvia,LAT,Europe,False,Post-Cold War (1992-2000),1,1,1,3,49,0.32,0.333,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Serbia and Montenegro,SCG,Europe,True,Post-Cold War (1992-2000),1,1,1,3,49,0.32,0.333,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Estonia,EST,Europe,False,Post-Cold War (1992-2000),1,0,2,3,49,0.32,0.333,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Thailand,THA,Asia,False,Post-Cold War (1992-2000),1,0,2,3,49,0.32,0.333,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Slovenia,SLO,Europe,False,Post-Cold War (1992-2000),2,0,0,2,57,0.22,1.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Croatia,CRO,Europe,False,Post-Cold War (1992-2000),1,0,1,2,57,0.22,0.5,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Kingdom of Saudi Arabia,KSA,Asia,False,Post-Cold War (1992-2000),0,1,1,2,57,0.22,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Republic of Moldova,MDA,Europe,False,Post-Cold War (1992-2000),0,1,1,2,57,0.22,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Trinidad and Tobago,TTO,Americas,False,Post-Cold War (1992-2000),0,1,1,2,57,0.22,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Costa Rica,CRC,Americas,False,Post-Cold War (1992-2000),0,0,2,2,57,0.22,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Portugal,POR,Europe,False,Post-Cold War (1992-2000),0,0,2,2,57,0.22,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Cameroon,CMR,Africa,False,Post-Cold War (1992-2000),1,0,0,1,64,0.11,1.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Colombia,COL,Americas,False,Post-Cold War (1992-2000),1,0,0,1,64,0.11,1.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Mozambique,MOZ,Africa,False,Post-Cold War (1992-2000),1,0,0,1,64,0.11,1.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Ireland,IRL,Europe,False,Post-Cold War (1992-2000),0,1,0,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Sri Lanka,SRI,Asia,False,Post-Cold War (1992-2000),0,1,0,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Uruguay,URU,Americas,False,Post-Cold War (1992-2000),0,1,0,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Vietnam,VIE,Asia,False,Post-Cold War (1992-2000),0,1,0,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Armenia,ARM,Europe,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Barbados,BAR,Americas,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Chile,CHI,Americas,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Iceland,ISL,Europe,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,India,IND,Asia,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Israel,ISR,Asia,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Kuwait,KUW,Asia,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Kyrgyzstan,KGZ,Asia,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,North Macedonia,MKD,Europe,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2000,2000 Summer Olympics,25,Sydney,AUS,False,Qatar,QAT,Asia,False,Post-Cold War (1992-2000),0,0,1,1,64,0.11,0.0,80,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,United States,USA,Americas,False,Modern (2004-2016),36,39,26,101,1,10.91,0.356,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Russian Federation,RUS,Europe,False,Modern (2004-2016),28,26,36,90,2,9.72,0.311,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,People's Republic of China,CHN,Asia,False,Modern (2004-2016),32,17,14,63,3,6.8,0.508,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Australia,AUS,Oceania,False,Modern (2004-2016),17,16,17,50,4,5.4,0.34,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Germany,GER,Europe,False,Modern (2004-2016),13,16,20,49,5,5.29,0.265,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Japan,JPN,Asia,False,Modern (2004-2016),16,9,12,37,6,4.0,0.432,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,France,FRA,Europe,False,Modern (2004-2016),11,9,13,33,7,3.56,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Italy,ITA,Europe,False,Modern (2004-2016),10,11,11,32,8,3.46,0.312,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Republic of Korea,KOR,Asia,False,Modern (2004-2016),9,12,9,30,9,3.24,0.3,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Great Britain,GBR,Europe,False,Modern (2004-2016),9,9,12,30,9,3.24,0.3,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Cuba,CUB,Americas,False,Modern (2004-2016),9,7,11,27,11,2.92,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Ukraine,UKR,Europe,False,Modern (2004-2016),8,5,9,22,12,2.38,0.364,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Netherlands,NED,Europe,False,Modern (2004-2016),4,9,9,22,12,2.38,0.182,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Spain,ESP,Europe,False,Modern (2004-2016),3,11,6,20,14,2.16,0.15,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Romania,ROU,Europe,False,Modern (2004-2016),8,5,6,19,15,2.05,0.421,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Hungary,HUN,Europe,False,Modern (2004-2016),8,6,3,17,16,1.84,0.471,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,True,Greece,GRE,Europe,False,Modern (2004-2016),6,6,4,16,17,1.73,0.375,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Belarus,BLR,Europe,False,Modern (2004-2016),2,5,6,13,18,1.4,0.154,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Canada,CAN,Americas,False,Modern (2004-2016),3,6,3,12,19,1.3,0.25,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Bulgaria,BUL,Europe,False,Modern (2004-2016),2,1,9,12,19,1.3,0.167,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Brazil,BRA,Americas,False,Modern (2004-2016),5,2,3,10,21,1.08,0.5,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Türkiye,TUR,Europe,False,Modern (2004-2016),3,3,4,10,21,1.08,0.3,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Poland,POL,Europe,False,Modern (2004-2016),3,2,5,10,21,1.08,0.3,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Czechia,CZE,Europe,False,Modern (2004-2016),1,3,5,9,24,0.97,0.111,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Thailand,THA,Asia,False,Modern (2004-2016),3,1,4,8,25,0.86,0.375,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Denmark,DEN,Europe,False,Modern (2004-2016),2,1,5,8,25,0.86,0.25,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Kazakhstan,KAZ,Asia,False,Modern (2004-2016),1,4,3,8,25,0.86,0.125,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Sweden,SWE,Europe,False,Modern (2004-2016),4,2,1,7,28,0.76,0.571,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Austria,AUT,Europe,False,Modern (2004-2016),2,4,1,7,28,0.76,0.286,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Ethiopia,ETH,Africa,False,Modern (2004-2016),2,3,2,7,28,0.76,0.286,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Kenya,KEN,Africa,False,Modern (2004-2016),1,4,2,7,28,0.76,0.143,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Norway,NOR,Europe,False,Modern (2004-2016),5,0,1,6,32,0.65,0.833,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Islamic Republic of Iran,IRI,Asia,False,Modern (2004-2016),2,2,2,6,32,0.65,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Slovakia,SVK,Europe,False,Modern (2004-2016),2,2,2,6,32,0.65,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Argentina,ARG,Americas,False,Modern (2004-2016),2,0,4,6,32,0.65,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,South Africa,RSA,Africa,False,Modern (2004-2016),1,3,2,6,32,0.65,0.167,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,New Zealand,NZL,Oceania,False,Modern (2004-2016),3,2,0,5,37,0.54,0.6,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Chinese Taipei,TPE,Asia,False,Modern (2004-2016),2,2,1,5,37,0.54,0.4,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Jamaica,JAM,Americas,False,Modern (2004-2016),2,1,2,5,37,0.54,0.4,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Uzbekistan,UZB,Asia,False,Modern (2004-2016),2,1,2,5,37,0.54,0.4,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Croatia,CRO,Europe,False,Modern (2004-2016),1,2,2,5,37,0.54,0.2,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Egypt,EGY,Africa,False,Modern (2004-2016),1,1,3,5,37,0.54,0.2,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Switzerland,SUI,Europe,False,Modern (2004-2016),1,1,3,5,37,0.54,0.2,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Azerbaijan,AZE,Europe,False,Modern (2004-2016),1,0,4,5,37,0.54,0.2,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Democratic People's Republic of Korea,PRK,Asia,False,Modern (2004-2016),0,4,1,5,37,0.54,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Georgia,GEO,Europe,False,Modern (2004-2016),2,2,0,4,46,0.43,0.5,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Indonesia,INA,Asia,False,Modern (2004-2016),1,1,2,4,46,0.43,0.25,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Latvia,LAT,Europe,False,Modern (2004-2016),0,4,0,4,46,0.43,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Mexico,MEX,Americas,False,Modern (2004-2016),0,3,1,4,46,0.43,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Slovenia,SLO,Europe,False,Modern (2004-2016),0,1,3,4,46,0.43,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Morocco,MAR,Africa,False,Modern (2004-2016),2,1,0,3,51,0.32,0.667,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Chile,CHI,Americas,False,Modern (2004-2016),2,0,1,3,51,0.32,0.667,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Lithuania,LTU,Europe,False,Modern (2004-2016),1,2,0,3,51,0.32,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Zimbabwe,ZIM,Africa,False,Modern (2004-2016),1,1,1,3,51,0.32,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Belgium,BEL,Europe,False,Modern (2004-2016),1,0,2,3,51,0.32,0.333,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Portugal,POR,Europe,False,Modern (2004-2016),0,2,1,3,51,0.32,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Estonia,EST,Europe,False,Modern (2004-2016),0,1,2,3,51,0.32,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Israel,ISR,Asia,False,Modern (2004-2016),1,0,1,2,58,0.22,0.5,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,The Bahamas,BAH,Americas,False,Modern (2004-2016),1,0,1,2,58,0.22,0.5,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Finland,FIN,Europe,False,Modern (2004-2016),0,2,0,2,58,0.22,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Serbia and Montenegro,SCG,Europe,True,Modern (2004-2016),0,2,0,2,58,0.22,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Colombia,COL,Americas,False,Modern (2004-2016),0,0,2,2,58,0.22,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Nigeria,NGR,Africa,False,Modern (2004-2016),0,0,2,2,58,0.22,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Venezuela,VEN,Americas,False,Modern (2004-2016),0,0,2,2,58,0.22,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Cameroon,CMR,Africa,False,Modern (2004-2016),1,0,0,1,65,0.11,1.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Dominican Republic,DOM,Americas,False,Modern (2004-2016),1,0,0,1,65,0.11,1.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,United Arab Emirates,UAE,Asia,False,Modern (2004-2016),1,0,0,1,65,0.11,1.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,"Hong Kong, China",HKG,Asia,False,Modern (2004-2016),0,1,0,1,65,0.11,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,India,IND,Asia,False,Modern (2004-2016),0,1,0,1,65,0.11,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Paraguay,PAR,Americas,False,Modern (2004-2016),0,1,0,1,65,0.11,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Eritrea,ERI,Africa,False,Modern (2004-2016),0,0,1,1,65,0.11,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Mongolia,MGL,Asia,False,Modern (2004-2016),0,0,1,1,65,0.11,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Syrian Arab Republic,SYR,Asia,False,Modern (2004-2016),0,0,1,1,65,0.11,0.0,74,True
+2004,2004 Summer Olympics,26,Athens,GRE,False,Trinidad and Tobago,TTO,Americas,False,Modern (2004-2016),0,0,1,1,65,0.11,0.0,74,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,United States,USA,Americas,False,Modern (2004-2016),36,39,37,112,1,11.69,0.321,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,True,People's Republic of China,CHN,Asia,False,Modern (2004-2016),48,22,30,100,2,10.44,0.48,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Russian Federation,RUS,Europe,False,Modern (2004-2016),24,13,23,60,3,6.26,0.4,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Great Britain,GBR,Europe,False,Modern (2004-2016),19,13,19,51,4,5.32,0.373,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Australia,AUS,Oceania,False,Modern (2004-2016),14,15,17,46,5,4.8,0.304,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,France,FRA,Europe,False,Modern (2004-2016),7,16,20,43,6,4.49,0.163,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Germany,GER,Europe,False,Modern (2004-2016),16,11,14,41,7,4.28,0.39,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Republic of Korea,KOR,Asia,False,Modern (2004-2016),13,11,8,32,8,3.34,0.406,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Cuba,CUB,Americas,False,Modern (2004-2016),3,10,17,30,9,3.13,0.1,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Italy,ITA,Europe,False,Modern (2004-2016),8,9,10,27,10,2.82,0.296,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Japan,JPN,Asia,False,Modern (2004-2016),9,8,8,25,11,2.61,0.36,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Ukraine,UKR,Europe,False,Modern (2004-2016),7,4,11,22,12,2.3,0.318,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Canada,CAN,Americas,False,Modern (2004-2016),3,9,8,20,13,2.09,0.15,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Spain,ESP,Europe,False,Modern (2004-2016),5,11,3,19,14,1.98,0.263,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Brazil,BRA,Americas,False,Modern (2004-2016),3,4,10,17,15,1.77,0.176,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Netherlands,NED,Europe,False,Modern (2004-2016),7,5,4,16,16,1.67,0.438,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Kenya,KEN,Africa,False,Modern (2004-2016),6,4,6,16,16,1.67,0.375,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Belarus,BLR,Europe,False,Modern (2004-2016),3,4,7,14,18,1.46,0.214,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Jamaica,JAM,Americas,False,Modern (2004-2016),5,4,2,11,19,1.15,0.455,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Poland,POL,Europe,False,Modern (2004-2016),4,5,2,11,19,1.15,0.364,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Hungary,HUN,Europe,False,Modern (2004-2016),3,5,2,10,21,1.04,0.3,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Romania,ROU,Europe,False,Modern (2004-2016),4,1,4,9,22,0.94,0.444,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Norway,NOR,Europe,False,Modern (2004-2016),3,5,1,9,22,0.94,0.333,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,New Zealand,NZL,Oceania,False,Modern (2004-2016),3,2,4,9,22,0.94,0.333,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Kazakhstan,KAZ,Asia,False,Modern (2004-2016),2,3,4,9,22,0.94,0.222,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Ethiopia,ETH,Africa,False,Modern (2004-2016),4,2,1,7,26,0.73,0.571,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Czechia,CZE,Europe,False,Modern (2004-2016),3,3,1,7,26,0.73,0.429,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Georgia,GEO,Europe,False,Modern (2004-2016),3,2,2,7,26,0.73,0.429,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Denmark,DEN,Europe,False,Modern (2004-2016),2,2,3,7,26,0.73,0.286,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Switzerland,SUI,Europe,False,Modern (2004-2016),2,1,4,7,26,0.73,0.286,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Slovakia,SVK,Europe,False,Modern (2004-2016),3,3,0,6,31,0.63,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Democratic People's Republic of Korea,PRK,Asia,False,Modern (2004-2016),2,2,2,6,31,0.63,0.333,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Thailand,THA,Asia,False,Modern (2004-2016),2,2,2,6,31,0.63,0.333,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Argentina,ARG,Americas,False,Modern (2004-2016),2,0,4,6,31,0.63,0.333,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Azerbaijan,AZE,Europe,False,Modern (2004-2016),1,1,4,6,31,0.63,0.167,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Indonesia,INA,Asia,False,Modern (2004-2016),1,1,4,6,31,0.63,0.167,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Slovenia,SLO,Europe,False,Modern (2004-2016),1,2,2,5,37,0.52,0.2,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Bulgaria,BUL,Europe,False,Modern (2004-2016),1,1,3,5,37,0.52,0.2,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Türkiye,TUR,Europe,False,Modern (2004-2016),1,1,3,5,37,0.52,0.2,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Sweden,SWE,Europe,False,Modern (2004-2016),0,4,1,5,37,0.52,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Lithuania,LTU,Europe,False,Modern (2004-2016),0,3,2,5,37,0.52,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Nigeria,NGR,Africa,False,Modern (2004-2016),0,3,2,5,37,0.52,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Croatia,CRO,Europe,False,Modern (2004-2016),0,2,3,5,37,0.52,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Armenia,ARM,Europe,False,Modern (2004-2016),0,1,4,5,37,0.52,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Mongolia,MGL,Asia,False,Modern (2004-2016),2,2,0,4,45,0.42,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Mexico,MEX,Americas,False,Modern (2004-2016),2,0,2,4,45,0.42,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Zimbabwe,ZIM,Africa,False,Modern (2004-2016),1,3,0,4,45,0.42,0.25,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Chinese Taipei,TPE,Asia,False,Modern (2004-2016),1,1,2,4,45,0.42,0.25,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Finland,FIN,Europe,False,Modern (2004-2016),1,1,2,4,45,0.42,0.25,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Uzbekistan,UZB,Asia,False,Modern (2004-2016),0,1,3,4,45,0.42,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Latvia,LAT,Europe,False,Modern (2004-2016),1,1,1,3,51,0.31,0.333,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,India,IND,Asia,False,Modern (2004-2016),1,0,2,3,51,0.31,0.333,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Colombia,COL,Americas,False,Modern (2004-2016),0,2,1,3,51,0.31,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Greece,GRE,Europe,False,Modern (2004-2016),0,2,1,3,51,0.31,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Austria,AUT,Europe,False,Modern (2004-2016),0,1,2,3,51,0.31,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Ireland,IRL,Europe,False,Modern (2004-2016),0,1,2,3,51,0.31,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Kyrgyzstan,KGZ,Asia,False,Modern (2004-2016),0,1,2,3,51,0.31,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Serbia,SRB,Europe,False,Modern (2004-2016),0,1,2,3,51,0.31,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Belgium,BEL,Europe,False,Modern (2004-2016),2,0,0,2,59,0.21,1.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Dominican Republic,DOM,Americas,False,Modern (2004-2016),1,1,0,2,59,0.21,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Estonia,EST,Europe,False,Modern (2004-2016),1,1,0,2,59,0.21,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Portugal,POR,Europe,False,Modern (2004-2016),1,1,0,2,59,0.21,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Trinidad and Tobago,TTO,Americas,False,Modern (2004-2016),1,1,0,2,59,0.21,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Islamic Republic of Iran,IRI,Asia,False,Modern (2004-2016),1,0,1,2,59,0.21,0.5,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Algeria,ALG,Africa,False,Modern (2004-2016),0,1,1,2,59,0.21,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Morocco,MAR,Africa,False,Modern (2004-2016),0,1,1,2,59,0.21,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Tajikistan,TJK,Asia,False,Modern (2004-2016),0,1,1,2,59,0.21,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,The Bahamas,BAH,Americas,False,Modern (2004-2016),0,1,1,2,59,0.21,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Egypt,EGY,Africa,False,Modern (2004-2016),0,0,2,2,59,0.21,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Cameroon,CMR,Africa,False,Modern (2004-2016),1,0,0,1,70,0.1,1.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Panama,PAN,Americas,False,Modern (2004-2016),1,0,0,1,70,0.1,1.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Tunisia,TUN,Africa,False,Modern (2004-2016),1,0,0,1,70,0.1,1.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Chile,CHI,Americas,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Ecuador,ECU,Americas,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Iceland,ISL,Europe,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Malaysia,MAS,Asia,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Samoa,SAM,Oceania,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Singapore,SGP,Asia,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,South Africa,RSA,Africa,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Sudan,SUD,Africa,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Vietnam,VIE,Asia,False,Modern (2004-2016),0,1,0,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Afghanistan,AFG,Asia,False,Modern (2004-2016),0,0,1,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Israel,ISR,Asia,False,Modern (2004-2016),0,0,1,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Mauritius,MRI,Africa,False,Modern (2004-2016),0,0,1,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Republic of Moldova,MDA,Europe,False,Modern (2004-2016),0,0,1,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Togo,TOG,Africa,False,Modern (2004-2016),0,0,1,1,70,0.1,0.0,87,True
+2008,2008 Summer Olympics,53,Beijing,CHN,False,Venezuela,VEN,Americas,False,Modern (2004-2016),0,0,1,1,70,0.1,0.0,87,True
+2012,2012 Summer Olympics,54,London,GBR,False,United States,USA,Americas,False,Modern (2004-2016),47,27,30,104,1,10.86,0.452,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,People's Republic of China,CHN,Asia,False,Modern (2004-2016),38,31,22,91,2,9.5,0.418,86,True
+2012,2012 Summer Olympics,54,London,GBR,True,Great Britain,GBR,Europe,False,Modern (2004-2016),29,18,18,65,3,6.78,0.446,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Russian Federation,RUS,Europe,False,Modern (2004-2016),18,21,26,65,3,6.78,0.277,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Germany,GER,Europe,False,Modern (2004-2016),11,20,13,44,5,4.59,0.25,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Japan,JPN,Asia,False,Modern (2004-2016),7,14,17,38,6,3.97,0.184,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,France,FRA,Europe,False,Modern (2004-2016),11,11,13,35,7,3.65,0.314,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Australia,AUS,Oceania,False,Modern (2004-2016),8,15,12,35,7,3.65,0.229,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Republic of Korea,KOR,Asia,False,Modern (2004-2016),13,9,8,30,9,3.13,0.433,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Italy,ITA,Europe,False,Modern (2004-2016),8,9,11,28,10,2.92,0.286,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Netherlands,NED,Europe,False,Modern (2004-2016),6,6,8,20,11,2.09,0.3,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Spain,ESP,Europe,False,Modern (2004-2016),4,10,6,20,11,2.09,0.2,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Ukraine,UKR,Europe,False,Modern (2004-2016),5,4,10,19,13,1.98,0.263,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Hungary,HUN,Europe,False,Modern (2004-2016),8,4,6,18,14,1.88,0.444,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Canada,CAN,Americas,False,Modern (2004-2016),2,6,10,18,14,1.88,0.111,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Brazil,BRA,Americas,False,Modern (2004-2016),3,5,9,17,16,1.77,0.176,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Cuba,CUB,Americas,False,Modern (2004-2016),5,3,7,15,17,1.57,0.333,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Islamic Republic of Iran,IRI,Asia,False,Modern (2004-2016),7,5,1,13,18,1.36,0.538,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,New Zealand,NZL,Oceania,False,Modern (2004-2016),6,2,5,13,18,1.36,0.462,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Kenya,KEN,Africa,False,Modern (2004-2016),2,4,7,13,18,1.36,0.154,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Jamaica,JAM,Americas,False,Modern (2004-2016),4,5,3,12,21,1.25,0.333,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Czechia,CZE,Europe,False,Modern (2004-2016),4,3,4,11,22,1.15,0.364,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Poland,POL,Europe,False,Modern (2004-2016),3,2,6,11,22,1.15,0.273,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Kazakhstan,KAZ,Asia,False,Modern (2004-2016),3,1,7,11,22,1.15,0.273,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Belarus,BLR,Europe,False,Modern (2004-2016),2,5,3,10,25,1.04,0.2,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Denmark,DEN,Europe,False,Modern (2004-2016),2,4,3,9,26,0.94,0.222,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Azerbaijan,AZE,Europe,False,Modern (2004-2016),2,2,5,9,26,0.94,0.222,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Colombia,COL,Americas,False,Modern (2004-2016),1,3,5,9,26,0.94,0.111,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Ethiopia,ETH,Africa,False,Modern (2004-2016),3,2,3,8,29,0.84,0.375,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Sweden,SWE,Europe,False,Modern (2004-2016),1,4,3,8,29,0.84,0.125,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Mexico,MEX,Americas,False,Modern (2004-2016),1,3,4,8,29,0.84,0.125,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Democratic People's Republic of Korea,PRK,Asia,False,Modern (2004-2016),4,0,3,7,32,0.73,0.571,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Romania,ROU,Europe,False,Modern (2004-2016),2,4,1,7,32,0.73,0.286,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,South Africa,RSA,Africa,False,Modern (2004-2016),4,1,1,6,34,0.63,0.667,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Croatia,CRO,Europe,False,Modern (2004-2016),3,1,2,6,34,0.63,0.5,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Georgia,GEO,Europe,False,Modern (2004-2016),1,2,3,6,34,0.63,0.167,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Ireland,IRL,Europe,False,Modern (2004-2016),1,1,4,6,34,0.63,0.167,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,India,IND,Asia,False,Modern (2004-2016),0,2,4,6,34,0.63,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Lithuania,LTU,Europe,False,Modern (2004-2016),2,0,3,5,39,0.52,0.4,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Mongolia,MGL,Asia,False,Modern (2004-2016),0,2,3,5,39,0.52,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Switzerland,SUI,Europe,False,Modern (2004-2016),2,2,0,4,41,0.42,0.5,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Norway,NOR,Europe,False,Modern (2004-2016),2,1,1,4,41,0.42,0.5,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Argentina,ARG,Americas,False,Modern (2004-2016),1,1,2,4,41,0.42,0.25,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Serbia,SRB,Europe,False,Modern (2004-2016),1,1,2,4,41,0.42,0.25,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Slovenia,SLO,Europe,False,Modern (2004-2016),1,1,2,4,41,0.42,0.25,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Trinidad and Tobago,TTO,Americas,False,Modern (2004-2016),1,1,2,4,41,0.42,0.25,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Egypt,EGY,Africa,False,Modern (2004-2016),0,3,1,4,41,0.42,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Thailand,THA,Asia,False,Modern (2004-2016),0,2,2,4,41,0.42,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Slovakia,SVK,Europe,False,Modern (2004-2016),0,1,3,4,41,0.42,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Tunisia,TUN,Africa,False,Modern (2004-2016),2,0,1,3,50,0.31,0.667,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Türkiye,TUR,Europe,False,Modern (2004-2016),1,1,1,3,50,0.31,0.333,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Bulgaria,BUL,Europe,False,Modern (2004-2016),0,2,1,3,50,0.31,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Finland,FIN,Europe,False,Modern (2004-2016),0,2,1,3,50,0.31,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Indonesia,INA,Asia,False,Modern (2004-2016),0,2,1,3,50,0.31,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Belgium,BEL,Europe,False,Modern (2004-2016),0,1,2,3,50,0.31,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Uzbekistan,UZB,Asia,False,Modern (2004-2016),0,0,3,3,50,0.31,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Dominican Republic,DOM,Americas,False,Modern (2004-2016),1,1,0,2,57,0.21,0.5,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Chinese Taipei,TPE,Asia,False,Modern (2004-2016),1,0,1,2,57,0.21,0.5,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Latvia,LAT,Europe,False,Modern (2004-2016),1,0,1,2,57,0.21,0.5,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Armenia,ARM,Europe,False,Modern (2004-2016),0,1,1,2,57,0.21,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Estonia,EST,Europe,False,Modern (2004-2016),0,1,1,2,57,0.21,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Malaysia,MAS,Asia,False,Modern (2004-2016),0,1,1,2,57,0.21,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Puerto Rico,PUR,Americas,False,Modern (2004-2016),0,1,1,2,57,0.21,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Qatar,QAT,Asia,False,Modern (2004-2016),0,1,1,2,57,0.21,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Greece,GRE,Europe,False,Modern (2004-2016),0,0,2,2,57,0.21,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Singapore,SGP,Asia,False,Modern (2004-2016),0,0,2,2,57,0.21,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Algeria,ALG,Africa,False,Modern (2004-2016),1,0,0,1,67,0.1,1.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Bahrain,BRN,Asia,False,Modern (2004-2016),1,0,0,1,67,0.1,1.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Grenada,GRN,Americas,False,Modern (2004-2016),1,0,0,1,67,0.1,1.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,The Bahamas,BAH,Americas,False,Modern (2004-2016),1,0,0,1,67,0.1,1.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Uganda,UGA,Africa,False,Modern (2004-2016),1,0,0,1,67,0.1,1.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Venezuela,VEN,Americas,False,Modern (2004-2016),1,0,0,1,67,0.1,1.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Botswana,BOT,Africa,False,Modern (2004-2016),0,1,0,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Cyprus,CYP,Europe,False,Modern (2004-2016),0,1,0,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Gabon,GAB,Africa,False,Modern (2004-2016),0,1,0,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Guatemala,GUA,Americas,False,Modern (2004-2016),0,1,0,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Montenegro,MNE,Europe,False,Modern (2004-2016),0,1,0,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Portugal,POR,Europe,False,Modern (2004-2016),0,1,0,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Afghanistan,AFG,Asia,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Cameroon,CMR,Africa,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,"Hong Kong, China",HKG,Asia,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Kingdom of Saudi Arabia,KSA,Asia,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Kuwait,KUW,Asia,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Morocco,MAR,Africa,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Tajikistan,TJK,Asia,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2012,2012 Summer Olympics,54,London,GBR,False,Vietnam,VIE,Asia,False,Modern (2004-2016),0,0,1,1,67,0.1,0.0,86,True
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,United States,USA,Americas,False,Modern (2004-2016),46,37,38,121,1,13.63,0.38,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,People's Republic of China,CHN,Asia,False,Modern (2004-2016),26,18,26,70,2,7.88,0.371,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Great Britain,GBR,Europe,False,Modern (2004-2016),27,23,17,67,3,7.55,0.403,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Russian Federation,RUS,Europe,False,Modern (2004-2016),19,17,20,56,4,6.31,0.339,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Germany,GER,Europe,False,Modern (2004-2016),17,10,15,42,5,4.73,0.405,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,France,FRA,Europe,False,Modern (2004-2016),10,18,14,42,5,4.73,0.238,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Japan,JPN,Asia,False,Modern (2004-2016),12,8,21,41,7,4.62,0.293,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Australia,AUS,Oceania,False,Modern (2004-2016),8,11,10,29,8,3.27,0.276,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Italy,ITA,Europe,False,Modern (2004-2016),8,12,8,28,9,3.15,0.286,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Canada,CAN,Americas,False,Modern (2004-2016),4,3,15,22,10,2.48,0.182,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Republic of Korea,KOR,Asia,False,Modern (2004-2016),9,3,9,21,11,2.36,0.429,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Netherlands,NED,Europe,False,Modern (2004-2016),8,7,4,19,12,2.14,0.421,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,True,Brazil,BRA,Americas,False,Modern (2004-2016),7,6,6,19,12,2.14,0.368,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,New Zealand,NZL,Oceania,False,Modern (2004-2016),4,9,5,18,14,2.03,0.222,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Azerbaijan,AZE,Europe,False,Modern (2004-2016),1,7,10,18,14,2.03,0.056,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Spain,ESP,Europe,False,Modern (2004-2016),7,4,6,17,16,1.91,0.412,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Kazakhstan,KAZ,Asia,False,Modern (2004-2016),2,5,10,17,16,1.91,0.118,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Hungary,HUN,Europe,False,Modern (2004-2016),8,3,4,15,18,1.69,0.533,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Denmark,DEN,Europe,False,Modern (2004-2016),2,6,7,15,18,1.69,0.133,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Kenya,KEN,Africa,False,Modern (2004-2016),6,6,1,13,20,1.46,0.462,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Uzbekistan,UZB,Asia,False,Modern (2004-2016),4,2,7,13,20,1.46,0.308,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Jamaica,JAM,Americas,False,Modern (2004-2016),6,3,2,11,22,1.24,0.545,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Cuba,CUB,Americas,False,Modern (2004-2016),5,2,4,11,22,1.24,0.455,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Sweden,SWE,Europe,False,Modern (2004-2016),2,6,3,11,22,1.24,0.182,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Ukraine,UKR,Europe,False,Modern (2004-2016),2,5,4,11,22,1.24,0.182,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Poland,POL,Europe,False,Modern (2004-2016),2,3,6,11,22,1.24,0.182,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Croatia,CRO,Europe,False,Modern (2004-2016),5,3,2,10,27,1.13,0.5,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,South Africa,RSA,Africa,False,Modern (2004-2016),2,6,2,10,27,1.13,0.2,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Czechia,CZE,Europe,False,Modern (2004-2016),1,2,7,10,27,1.13,0.1,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Belarus,BLR,Europe,False,Modern (2004-2016),1,4,4,9,30,1.01,0.111,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Colombia,COL,Americas,False,Modern (2004-2016),3,2,3,8,31,0.9,0.375,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Islamic Republic of Iran,IRI,Asia,False,Modern (2004-2016),3,1,4,8,31,0.9,0.375,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Serbia,SRB,Europe,False,Modern (2004-2016),2,4,2,8,31,0.9,0.25,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Türkiye,TUR,Europe,False,Modern (2004-2016),1,3,4,8,31,0.9,0.125,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Ethiopia,ETH,Africa,False,Modern (2004-2016),1,2,5,8,31,0.9,0.125,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Switzerland,SUI,Europe,False,Modern (2004-2016),3,2,2,7,36,0.79,0.429,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Democratic People's Republic of Korea,PRK,Asia,False,Modern (2004-2016),2,3,2,7,36,0.79,0.286,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Georgia,GEO,Europe,False,Modern (2004-2016),2,1,4,7,36,0.79,0.286,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Greece,GRE,Europe,False,Modern (2004-2016),3,1,2,6,39,0.68,0.5,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Belgium,BEL,Europe,False,Modern (2004-2016),2,2,2,6,39,0.68,0.333,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Thailand,THA,Asia,False,Modern (2004-2016),2,2,2,6,39,0.68,0.333,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Argentina,ARG,Americas,False,Modern (2004-2016),3,1,0,4,42,0.45,0.75,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Slovakia,SVK,Europe,False,Modern (2004-2016),2,2,0,4,42,0.45,0.5,44,False
+2016,2016 Summer Olympics,59,Rio de Janeiro,BRA,False,Armenia,ARM,Europe,False,Modern (2004-2016),1,3,0,4,42,0.45,0.25,44,False
